@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuite hostname="MacBook-Pro-de-khalfaoui.local" name="wikipedia.WikipediaSuite" tests="7" errors="0" failures="1" skipped="1" time="24.882">
+                     <properties>
+      <property name="jline.esc.timeout" value="0"/><property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/><property name="idea.runid" value="2018.2.1+4-88400d3f"/><property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/jre/lib"/><property name="java.vm.version" value="25.172-b11"/><property name="io.netty.maxDirectMemory" value="0"/><property name="gopherProxySet" value="false"/><property name="java.vm.vendor" value="Oracle Corporation"/><property name="java.vendor.url" value="http://java.oracle.com/"/><property name="path.separator" value=":"/><property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/><property name="file.encoding.pkg" value="sun.io"/><property name="user.country" value="FR"/><property name="sun.java.launcher" value="SUN_STANDARD"/><property name="sun.os.patch.level" value="unknown"/><property name="java.vm.specification.name" value="Java Virtual Machine Specification"/><property name="user.dir" value="/Users/kaiim/Downloads/wikipedia"/><property name="java.runtime.version" value="1.8.0_172-b11"/><property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/><property name="idea.managed" value="true"/><property name="java.endorsed.dirs" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/jre/lib/endorsed"/><property name="os.arch" value="x86_64"/><property name="java.io.tmpdir" value="/var/folders/bg/2jgd8jln2njdg71g6wqjqf100000gn/T/"/><property name="line.separator" value="
+"/><property name="java.vm.specification.vendor" value="Oracle Corporation"/><property name="os.name" value="Mac OS X"/><property name="sun.jnu.encoding" value="UTF-8"/><property name="java.library.path" value="/Users/kaiim/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/><property name="sun.nio.ch.bugLevel" value=""/><property name="java.specification.name" value="Java Platform API Specification"/><property name="java.class.version" value="52.0"/><property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/><property name="os.version" value="10.14.3"/><property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/><property name="user.home" value="/Users/kaiim"/><property name="user.timezone" value="Europe/Paris"/><property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob"/><property name="file.encoding" value="UTF-8"/><property name="java.specification.version" value="1.8"/><property name="java.class.path" value="/Users/kaiim/Library/Application Support/IdeaIC2018.3/Scala/launcher/sbt-launch.jar"/><property name="user.name" value="kaiim"/><property name="jline.shutdownhook" value="false"/><property name="java.vm.specification.version" value="1.8"/><property name="sun.java.command" value="/Users/kaiim/Library/Application Support/IdeaIC2018.3/Scala/launcher/sbt-launch.jar idea-shell"/><property name="java.home" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/jre"/><property name="sun.arch.data.model" value="64"/><property name="user.language" value="fr"/><property name="java.specification.vendor" value="Oracle Corporation"/><property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/><property name="java.vm.info" value="mixed mode"/><property name="java.version" value="1.8.0_172"/><property name="java.ext.dirs" value="/Users/kaiim/Library/Java/Extensions:/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/jre/lib/ext:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java"/><property name="sun.boot.class.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/jre/classes"/><property name="java.vendor" value="Oracle Corporation"/><property name="file.separator" value="/"/><property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/><property name="sun.io.unicode.encoding" value="UnicodeBig"/><property name="sun.cpu.endian" value="little"/><property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/><property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/><property name="sun.cpu.isalist" value=""/>
+    </properties>
+                     <testcase classname="wikipedia.WikipediaSuite" name="'occurrencesOfLang' should work for (specific) RDD with one element" time="3.595">
+                                                 
+                                               </testcase><testcase classname="wikipedia.WikipediaSuite" name="'occurrencesOfLang' should work for (specific) RDD with 586 elem" time="7.62">
+                                                 
+                                               </testcase><testcase classname="wikipedia.WikipediaSuite" name="resultats de la liste" time="13.086">
+                                                 
+                                               </testcase><testcase classname="wikipedia.WikipediaSuite" name="'rankLangs' should work for RDD with two elements" time="0.062">
+                                                 
+                                               </testcase><testcase classname="wikipedia.WikipediaSuite" name="'makeIndex' creates a simple index with two entries" time="0.235">
+                                                 
+                                               </testcase><testcase classname="wikipedia.WikipediaSuite" name="'rankLangsUsingIndex' should work for a simple RDD with three elements" time="0.285">
+                                                 <failure message="res was false" type="org.scalatest.exceptions.TestFailedException">org.scalatest.exceptions.TestFailedException: res was false
+	at org.scalatest.Assertions$class.newAssertionFailedException(Assertions.scala:500)
+	at org.scalatest.FunSuite.newAssertionFailedException(FunSuite.scala:1555)
+	at org.scalatest.Assertions$AssertionsHelper.macroAssert(Assertions.scala:466)
+	at wikipedia.WikipediaSuite$$anonfun$6.apply$mcV$sp(WikipediaSuite.scala:152)
+	at wikipedia.WikipediaSuite$$anonfun$6.apply(WikipediaSuite.scala:137)
+	at wikipedia.WikipediaSuite$$anonfun$6.apply(WikipediaSuite.scala:137)
+	at org.scalatest.Transformer$$anonfun$apply$1.apply$mcV$sp(Transformer.scala:22)
+	at org.scalatest.OutcomeOf$class.outcomeOf(OutcomeOf.scala:85)
+	at org.scalatest.OutcomeOf$.outcomeOf(OutcomeOf.scala:104)
+	at org.scalatest.Transformer.apply(Transformer.scala:22)
+	at org.scalatest.Transformer.apply(Transformer.scala:20)
+	at org.scalatest.FunSuiteLike$$anon$1.apply(FunSuiteLike.scala:166)
+	at org.scalatest.Suite$class.withFixture(Suite.scala:1122)
+	at org.scalatest.FunSuite.withFixture(FunSuite.scala:1555)
+	at org.scalatest.FunSuiteLike$class.invokeWithFixture$1(FunSuiteLike.scala:163)
+	at org.scalatest.FunSuiteLike$$anonfun$runTest$1.apply(FunSuiteLike.scala:175)
+	at org.scalatest.FunSuiteLike$$anonfun$runTest$1.apply(FunSuiteLike.scala:175)
+	at org.scalatest.SuperEngine.runTestImpl(Engine.scala:306)
+	at org.scalatest.FunSuiteLike$class.runTest(FunSuiteLike.scala:175)
+	at org.scalatest.FunSuite.runTest(FunSuite.scala:1555)
+	at org.scalatest.FunSuiteLike$$anonfun$runTests$1.apply(FunSuiteLike.scala:208)
+	at org.scalatest.FunSuiteLike$$anonfun$runTests$1.apply(FunSuiteLike.scala:208)
+	at org.scalatest.SuperEngine$$anonfun$traverseSubNodes$1$1.apply(Engine.scala:413)
+	at org.scalatest.SuperEngine$$anonfun$traverseSubNodes$1$1.apply(Engine.scala:401)
+	at scala.collection.immutable.List.foreach(List.scala:392)
+	at org.scalatest.SuperEngine.traverseSubNodes$1(Engine.scala:401)
+	at org.scalatest.SuperEngine.org$scalatest$SuperEngine$$runTestsInBranch(Engine.scala:396)
+	at org.scalatest.SuperEngine.runTestsImpl(Engine.scala:483)
+	at org.scalatest.FunSuiteLike$class.runTests(FunSuiteLike.scala:208)
+	at org.scalatest.FunSuite.runTests(FunSuite.scala:1555)
+	at org.scalatest.Suite$class.run(Suite.scala:1424)
+	at org.scalatest.FunSuite.org$scalatest$FunSuiteLike$$super$run(FunSuite.scala:1555)
+	at org.scalatest.FunSuiteLike$$anonfun$run$1.apply(FunSuiteLike.scala:212)
+	at org.scalatest.FunSuiteLike$$anonfun$run$1.apply(FunSuiteLike.scala:212)
+	at org.scalatest.SuperEngine.runImpl(Engine.scala:545)
+	at org.scalatest.FunSuiteLike$class.run(FunSuiteLike.scala:212)
+	at wikipedia.WikipediaSuite.org$scalatest$BeforeAndAfterAll$$super$run(WikipediaSuite.scala:12)
+	at org.scalatest.BeforeAndAfterAll$class.liftedTree1$1(BeforeAndAfterAll.scala:257)
+	at org.scalatest.BeforeAndAfterAll$class.run(BeforeAndAfterAll.scala:256)
+	at wikipedia.WikipediaSuite.run(WikipediaSuite.scala:12)
+	at org.scalatest.tools.Framework.org$scalatest$tools$Framework$$runSuite(Framework.scala:357)
+	at org.scalatest.tools.Framework$ScalaTestTask.execute(Framework.scala:502)
+	at sbt.TestRunner.runTest$1(TestFramework.scala:76)
+	at sbt.TestRunner.run(TestFramework.scala:85)
+	at sbt.TestFramework$$anon$2$$anonfun$$init$$1$$anonfun$apply$8.apply(TestFramework.scala:202)
+	at sbt.TestFramework$$anon$2$$anonfun$$init$$1$$anonfun$apply$8.apply(TestFramework.scala:202)
+	at sbt.TestFramework$.sbt$TestFramework$$withContextLoader(TestFramework.scala:185)
+	at sbt.TestFramework$$anon$2$$anonfun$$init$$1.apply(TestFramework.scala:202)
+	at sbt.TestFramework$$anon$2$$anonfun$$init$$1.apply(TestFramework.scala:202)
+	at sbt.TestFunction.apply(TestFramework.scala:207)
+	at sbt.Tests$$anonfun$9.apply(Tests.scala:216)
+	at sbt.Tests$$anonfun$9.apply(Tests.scala:216)
+	at sbt.std.Transform$$anon$3$$anonfun$apply$2.apply(System.scala:44)
+	at sbt.std.Transform$$anon$3$$anonfun$apply$2.apply(System.scala:44)
+	at sbt.std.Transform$$anon$4.work(System.scala:63)
+	at sbt.Execute$$anonfun$submit$1$$anonfun$apply$1.apply(Execute.scala:228)
+	at sbt.Execute$$anonfun$submit$1$$anonfun$apply$1.apply(Execute.scala:228)
+	at sbt.ErrorHandling$.wideConvert(ErrorHandling.scala:17)
+	at sbt.Execute.work(Execute.scala:237)
+	at sbt.Execute$$anonfun$submit$1.apply(Execute.scala:228)
+	at sbt.Execute$$anonfun$submit$1.apply(Execute.scala:228)
+	at sbt.ConcurrentRestrictions$$anon$4$$anonfun$1.apply(ConcurrentRestrictions.scala:159)
+	at sbt.CompletionService$$anon$2.call(CompletionService.scala:28)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+</failure>
+                                               </testcase><testcase classname="wikipedia.WikipediaSuite" name="'rankLangsReduceByKey' should work for a simple RDD with four elements" time="-0.001">
+                                                 <skipped/>
+                                               </testcase>
+                     <system-out></system-out>
+                     <system-err></system-err>
+                   </testsuite>

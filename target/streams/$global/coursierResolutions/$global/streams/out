@@ -1,0 +1,52 @@
+coursier.ResolutionException: Encountered 5 error(s) in dependency resolution:
+    org.apache.spark:spark-sql_2.11:2.1.0:
+        download error:
+            Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/org/apache/spark/spark-sql_2.11/2.1.0/spark-sql_2.11-2.1.0.pom
+            Caught java.net.UnknownHostException: oss.sonatype.org (oss.sonatype.org) while downloading https://oss.sonatype.org/content/repositories/releases/org/apache/spark/spark-sql_2.11/2.1.0/spark-sql_2.11-2.1.0.pom
+        not found: /Users/kaiim/.ivy2/local/org.apache.spark/spark-sql_2.11/2.1.0/ivys/ivy.xml
+    org.apache.spark:spark-core_2.11:2.1.0:
+        download error:
+            Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/org/apache/spark/spark-core_2.11/2.1.0/spark-core_2.11-2.1.0.pom
+            Caught java.net.UnknownHostException: oss.sonatype.org (oss.sonatype.org) while downloading https://oss.sonatype.org/content/repositories/releases/org/apache/spark/spark-core_2.11/2.1.0/spark-core_2.11-2.1.0.pom
+        not found: /Users/kaiim/.ivy2/local/org.apache.spark/spark-core_2.11/2.1.0/ivys/ivy.xml
+    org.scala-lang:scala-library:2.11.12:
+        download error:
+            Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12.pom
+            Caught java.net.UnknownHostException: oss.sonatype.org (oss.sonatype.org) while downloading https://oss.sonatype.org/content/repositories/releases/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12.pom
+        not found: /Users/kaiim/.ivy2/local/org.scala-lang/scala-library/2.11.12/ivys/ivy.xml
+    junit:junit:4.10:
+        download error:
+            Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/junit/junit/4.10/junit-4.10.pom
+            Caught java.net.UnknownHostException: oss.sonatype.org (oss.sonatype.org) while downloading https://oss.sonatype.org/content/repositories/releases/junit/junit/4.10/junit-4.10.pom
+        not found: /Users/kaiim/.ivy2/local/junit/junit/4.10/ivys/ivy.xml
+    org.scalatest:scalatest_2.11:2.2.4:
+        download error:
+            Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/org/scalatest/scalatest_2.11/2.2.4/scalatest_2.11-2.2.4.pom
+            Caught java.net.UnknownHostException: oss.sonatype.org (oss.sonatype.org) while downloading https://oss.sonatype.org/content/repositories/releases/org/scalatest/scalatest_2.11/2.2.4/scalatest_2.11-2.2.4.pom
+        not found: /Users/kaiim/.ivy2/local/org.scalatest/scalatest_2.11/2.2.4/ivys/ivy.xml
+[0m[[31merror[0m] [0m(*:[31mcoursierResolutions[0m) coursier.ResolutionException: Encountered 5 error(s) in dependency resolution:[0m
+[0m[[31merror[0m] [0m    org.apache.spark:spark-sql_2.11:2.1.0:[0m
+[0m[[31merror[0m] [0m        download error:[0m
+[0m[[31merror[0m] [0m            Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/org/apache/spark/spark-sql_2.11/2.1.0/spark-sql_2.11-2.1.0.pom[0m
+[0m[[31merror[0m] [0m            Caught java.net.UnknownHostException: oss.sonatype.org (oss.sonatype.org) while downloading https://oss.sonatype.org/content/repositories/releases/org/apache/spark/spark-sql_2.11/2.1.0/spark-sql_2.11-2.1.0.pom[0m
+[0m[[31merror[0m] [0m        not found: /Users/kaiim/.ivy2/local/org.apache.spark/spark-sql_2.11/2.1.0/ivys/ivy.xml[0m
+[0m[[31merror[0m] [0m    org.apache.spark:spark-core_2.11:2.1.0:[0m
+[0m[[31merror[0m] [0m        download error:[0m
+[0m[[31merror[0m] [0m            Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/org/apache/spark/spark-core_2.11/2.1.0/spark-core_2.11-2.1.0.pom[0m
+[0m[[31merror[0m] [0m            Caught java.net.UnknownHostException: oss.sonatype.org (oss.sonatype.org) while downloading https://oss.sonatype.org/content/repositories/releases/org/apache/spark/spark-core_2.11/2.1.0/spark-core_2.11-2.1.0.pom[0m
+[0m[[31merror[0m] [0m        not found: /Users/kaiim/.ivy2/local/org.apache.spark/spark-core_2.11/2.1.0/ivys/ivy.xml[0m
+[0m[[31merror[0m] [0m    org.scala-lang:scala-library:2.11.12:[0m
+[0m[[31merror[0m] [0m        download error:[0m
+[0m[[31merror[0m] [0m            Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12.pom[0m
+[0m[[31merror[0m] [0m            Caught java.net.UnknownHostException: oss.sonatype.org (oss.sonatype.org) while downloading https://oss.sonatype.org/content/repositories/releases/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12.pom[0m
+[0m[[31merror[0m] [0m        not found: /Users/kaiim/.ivy2/local/org.scala-lang/scala-library/2.11.12/ivys/ivy.xml[0m
+[0m[[31merror[0m] [0m    junit:junit:4.10:[0m
+[0m[[31merror[0m] [0m        download error:[0m
+[0m[[31merror[0m] [0m            Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/junit/junit/4.10/junit-4.10.pom[0m
+[0m[[31merror[0m] [0m            Caught java.net.UnknownHostException: oss.sonatype.org (oss.sonatype.org) while downloading https://oss.sonatype.org/content/repositories/releases/junit/junit/4.10/junit-4.10.pom[0m
+[0m[[31merror[0m] [0m        not found: /Users/kaiim/.ivy2/local/junit/junit/4.10/ivys/ivy.xml[0m
+[0m[[31merror[0m] [0m    org.scalatest:scalatest_2.11:2.2.4:[0m
+[0m[[31merror[0m] [0m        download error:[0m
+[0m[[31merror[0m] [0m            Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/org/scalatest/scalatest_2.11/2.2.4/scalatest_2.11-2.2.4.pom[0m
+[0m[[31merror[0m] [0m            Caught java.net.UnknownHostException: oss.sonatype.org (oss.sonatype.org) while downloading https://oss.sonatype.org/content/repositories/releases/org/scalatest/scalatest_2.11/2.2.4/scalatest_2.11-2.2.4.pom[0m
+[0m[[31merror[0m] [0m        not found: /Users/kaiim/.ivy2/local/org.scalatest/scalatest_2.11/2.2.4/ivys/ivy.xml[0m

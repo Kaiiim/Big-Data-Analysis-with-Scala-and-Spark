@@ -1,0 +1,938 @@
+coursier.ResolutionException: Encountered 36 error(s) in dependency resolution:
+    com.dwijnand:sbt-compat;sbtVersion=0.13;scalaVersion=2.10:1.2.5:
+        download error:
+            Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/com/dwijnand/sbt-compat_2.10_0.13/1.2.5/sbt-compat-1.2.5.pom
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-releases/com/dwijnand/sbt-compat_2.10_0.13/1.2.5/sbt-compat-1.2.5.pom
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-snapshots/com/dwijnand/sbt-compat_2.10_0.13/1.2.5/sbt-compat-1.2.5.pom
+            Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/com.dwijnand/sbt-compat/1.2.5/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/ivy-snapshots/com.dwijnand/sbt-compat/1.2.5/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/com.dwijnand/sbt-compat/scala_2.10/sbt_0.13/1.2.5/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/com.dwijnand/sbt-compat/scala_2.10/sbt_0.13/1.2.5/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/com/dwijnand/sbt-compat_2.10_0.13/1.2.5/sbt-compat-1.2.5.pom
+        not found:
+            /Users/kaiim/.ivy2/local/com.dwijnand/sbt-compat/scala_2.10/sbt_0.13/1.2.5/ivys/ivy.xml
+            /Users/kaiim/.ivy2/local/com.dwijnand/sbt-compat/scala_2.10/sbt_0.13/1.2.5/ivys/ivy.xml
+    args4j:args4j:2.0.26:
+        download error:
+            Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/args4j/args4j/2.0.26/args4j-2.0.26.pom
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-releases/args4j/args4j/2.0.26/args4j-2.0.26.pom
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-snapshots/args4j/args4j/2.0.26/args4j-2.0.26.pom
+            Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/args4j/args4j/2.0.26/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/ivy-snapshots/args4j/args4j/2.0.26/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/args4j/args4j/2.0.26/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/args4j/args4j/2.0.26/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/args4j/args4j/2.0.26/args4j-2.0.26.pom
+        not found:
+            /Users/kaiim/.ivy2/local/args4j/args4j/2.0.26/ivys/ivy.xml
+            /Users/kaiim/.ivy2/local/args4j/args4j/2.0.26/ivys/ivy.xml
+    org.scalaj:scalaj-http_2.10:2.2.1:
+        download error:
+            Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/org/scalaj/scalaj-http_2.10/2.2.1/scalaj-http_2.10-2.2.1.pom
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-releases/org/scalaj/scalaj-http_2.10/2.2.1/scalaj-http_2.10-2.2.1.pom
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-snapshots/org/scalaj/scalaj-http_2.10/2.2.1/scalaj-http_2.10-2.2.1.pom
+            Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/org.scalaj/scalaj-http_2.10/2.2.1/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/ivy-snapshots/org.scalaj/scalaj-http_2.10/2.2.1/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/org.scalaj/scalaj-http_2.10/2.2.1/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.scalaj/scalaj-http_2.10/2.2.1/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/org/scalaj/scalaj-http_2.10/2.2.1/scalaj-http_2.10-2.2.1.pom
+        not found:
+            /Users/kaiim/.ivy2/local/org.scalaj/scalaj-http_2.10/2.2.1/ivys/ivy.xml
+            /Users/kaiim/.ivy2/local/org.scalaj/scalaj-http_2.10/2.2.1/ivys/ivy.xml
+    org.scalastyle:scalastyle_2.10:0.8.0:
+        download error:
+            Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/org/scalastyle/scalastyle_2.10/0.8.0/scalastyle_2.10-0.8.0.pom
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-releases/org/scalastyle/scalastyle_2.10/0.8.0/scalastyle_2.10-0.8.0.pom
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-snapshots/org/scalastyle/scalastyle_2.10/0.8.0/scalastyle_2.10-0.8.0.pom
+            Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/org.scalastyle/scalastyle_2.10/0.8.0/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/ivy-snapshots/org.scalastyle/scalastyle_2.10/0.8.0/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/org.scalastyle/scalastyle_2.10/0.8.0/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.scalastyle/scalastyle_2.10/0.8.0/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/org/scalastyle/scalastyle_2.10/0.8.0/scalastyle_2.10-0.8.0.pom
+        not found:
+            /Users/kaiim/.ivy2/local/org.scalastyle/scalastyle_2.10/0.8.0/ivys/ivy.xml
+            /Users/kaiim/.ivy2/local/org.scalastyle/scalastyle_2.10/0.8.0/ivys/ivy.xml
+    org.scala-js:closure-compiler-java-6:v20160517:
+        download error:
+            Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/org/scala-js/closure-compiler-java-6/v20160517/closure-compiler-java-6-v20160517.pom
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-releases/org/scala-js/closure-compiler-java-6/v20160517/closure-compiler-java-6-v20160517.pom
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-snapshots/org/scala-js/closure-compiler-java-6/v20160517/closure-compiler-java-6-v20160517.pom
+            Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/org.scala-js/closure-compiler-java-6/v20160517/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/ivy-snapshots/org.scala-js/closure-compiler-java-6/v20160517/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/org.scala-js/closure-compiler-java-6/v20160517/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.scala-js/closure-compiler-java-6/v20160517/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/org/scala-js/closure-compiler-java-6/v20160517/closure-compiler-java-6-v20160517.pom
+        not found:
+            /Users/kaiim/.ivy2/local/org.scala-js/closure-compiler-java-6/v20160517/ivys/ivy.xml
+            /Users/kaiim/.ivy2/local/org.scala-js/closure-compiler-java-6/v20160517/ivys/ivy.xml
+    io.get-coursier:coursier-extra_2.10:1.0.2:
+        download error:
+            Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/io/get-coursier/coursier-extra_2.10/1.0.2/coursier-extra_2.10-1.0.2.pom
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-releases/io/get-coursier/coursier-extra_2.10/1.0.2/coursier-extra_2.10-1.0.2.pom
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-snapshots/io/get-coursier/coursier-extra_2.10/1.0.2/coursier-extra_2.10-1.0.2.pom
+            Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/io.get-coursier/coursier-extra_2.10/1.0.2/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/ivy-snapshots/io.get-coursier/coursier-extra_2.10/1.0.2/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/io.get-coursier/coursier-extra_2.10/1.0.2/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/io.get-coursier/coursier-extra_2.10/1.0.2/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/io/get-coursier/coursier-extra_2.10/1.0.2/coursier-extra_2.10-1.0.2.pom
+        not found:
+            /Users/kaiim/.ivy2/local/io.get-coursier/coursier-extra_2.10/1.0.2/ivys/ivy.xml
+            /Users/kaiim/.ivy2/local/io.get-coursier/coursier-extra_2.10/1.0.2/ivys/ivy.xml
+    org.scalaz:scalaz-effect_2.10:7.2.16:
+        download error:
+            Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/org/scalaz/scalaz-effect_2.10/7.2.16/scalaz-effect_2.10-7.2.16.pom
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-releases/org/scalaz/scalaz-effect_2.10/7.2.16/scalaz-effect_2.10-7.2.16.pom
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-snapshots/org/scalaz/scalaz-effect_2.10/7.2.16/scalaz-effect_2.10-7.2.16.pom
+            Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/org.scalaz/scalaz-effect_2.10/7.2.16/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/ivy-snapshots/org.scalaz/scalaz-effect_2.10/7.2.16/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/org.scalaz/scalaz-effect_2.10/7.2.16/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.scalaz/scalaz-effect_2.10/7.2.16/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/org/scalaz/scalaz-effect_2.10/7.2.16/scalaz-effect_2.10-7.2.16.pom
+        not found:
+            /Users/kaiim/.ivy2/local/org.scalaz/scalaz-effect_2.10/7.2.16/ivys/ivy.xml
+            /Users/kaiim/.ivy2/local/org.scalaz/scalaz-effect_2.10/7.2.16/ivys/ivy.xml
+    org.scala-js:scalajs-js-envs_2.10:0.6.22:
+        download error:
+            Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/org/scala-js/scalajs-js-envs_2.10/0.6.22/scalajs-js-envs_2.10-0.6.22.pom
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-releases/org/scala-js/scalajs-js-envs_2.10/0.6.22/scalajs-js-envs_2.10-0.6.22.pom
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-snapshots/org/scala-js/scalajs-js-envs_2.10/0.6.22/scalajs-js-envs_2.10-0.6.22.pom
+            Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/org.scala-js/scalajs-js-envs_2.10/0.6.22/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/ivy-snapshots/org.scala-js/scalajs-js-envs_2.10/0.6.22/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/org.scala-js/scalajs-js-envs_2.10/0.6.22/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.scala-js/scalajs-js-envs_2.10/0.6.22/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/org/scala-js/scalajs-js-envs_2.10/0.6.22/scalajs-js-envs_2.10-0.6.22.pom
+        not found:
+            /Users/kaiim/.ivy2/local/org.scala-js/scalajs-js-envs_2.10/0.6.22/ivys/ivy.xml
+            /Users/kaiim/.ivy2/local/org.scala-js/scalajs-js-envs_2.10/0.6.22/ivys/ivy.xml
+    org.webjars:envjs:1.2:
+        download error:
+            Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/org/webjars/envjs/1.2/envjs-1.2.pom
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-releases/org/webjars/envjs/1.2/envjs-1.2.pom
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-snapshots/org/webjars/envjs/1.2/envjs-1.2.pom
+            Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/org.webjars/envjs/1.2/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/ivy-snapshots/org.webjars/envjs/1.2/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/org.webjars/envjs/1.2/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.webjars/envjs/1.2/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/org/webjars/envjs/1.2/envjs-1.2.pom
+        not found:
+            /Users/kaiim/.ivy2/local/org.webjars/envjs/1.2/ivys/ivy.xml
+            /Users/kaiim/.ivy2/local/org.webjars/envjs/1.2/ivys/ivy.xml
+    com.typesafe.sbteclipse:sbteclipse-plugin;sbtVersion=0.13;scalaVersion=2.10:5.2.4:
+        download error:
+            Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/com/typesafe/sbteclipse/sbteclipse-plugin_2.10_0.13/5.2.4/sbteclipse-plugin-5.2.4.pom
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-releases/com/typesafe/sbteclipse/sbteclipse-plugin_2.10_0.13/5.2.4/sbteclipse-plugin-5.2.4.pom
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-snapshots/com/typesafe/sbteclipse/sbteclipse-plugin_2.10_0.13/5.2.4/sbteclipse-plugin-5.2.4.pom
+            Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/com.typesafe.sbteclipse/sbteclipse-plugin/5.2.4/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/ivy-snapshots/com.typesafe.sbteclipse/sbteclipse-plugin/5.2.4/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/com.typesafe.sbteclipse/sbteclipse-plugin/scala_2.10/sbt_0.13/5.2.4/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/com.typesafe.sbteclipse/sbteclipse-plugin/scala_2.10/sbt_0.13/5.2.4/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/com/typesafe/sbteclipse/sbteclipse-plugin_2.10_0.13/5.2.4/sbteclipse-plugin-5.2.4.pom
+        not found:
+            /Users/kaiim/.ivy2/local/com.typesafe.sbteclipse/sbteclipse-plugin/scala_2.10/sbt_0.13/5.2.4/ivys/ivy.xml
+            /Users/kaiim/.ivy2/local/com.typesafe.sbteclipse/sbteclipse-plugin/scala_2.10/sbt_0.13/5.2.4/ivys/ivy.xml
+    com.typesafe:config:1.2.0:
+        download error:
+            Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/com/typesafe/config/1.2.0/config-1.2.0.pom
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-releases/com/typesafe/config/1.2.0/config-1.2.0.pom
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-snapshots/com/typesafe/config/1.2.0/config-1.2.0.pom
+            Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/com.typesafe/config/1.2.0/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/ivy-snapshots/com.typesafe/config/1.2.0/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/com.typesafe/config/1.2.0/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/com.typesafe/config/1.2.0/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/com/typesafe/config/1.2.0/config-1.2.0.pom
+        not found:
+            /Users/kaiim/.ivy2/local/com.typesafe/config/1.2.0/ivys/ivy.xml
+            /Users/kaiim/.ivy2/local/com.typesafe/config/1.2.0/ivys/ivy.xml
+    org.scala-lang:scala-library:2.10.7:
+        download error:
+            Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.10.7/scala-library-2.10.7.pom
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-releases/org/scala-lang/scala-library/2.10.7/scala-library-2.10.7.pom
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-snapshots/org/scala-lang/scala-library/2.10.7/scala-library-2.10.7.pom
+            Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/org.scala-lang/scala-library/2.10.7/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/ivy-snapshots/org.scala-lang/scala-library/2.10.7/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/org.scala-lang/scala-library/2.10.7/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.scala-lang/scala-library/2.10.7/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.10.7/scala-library-2.10.7.pom
+        not found:
+            /Users/kaiim/.ivy2/local/org.scala-lang/scala-library/2.10.7/ivys/ivy.xml
+            /Users/kaiim/.ivy2/local/org.scala-lang/scala-library/2.10.7/ivys/ivy.xml
+    org.scala-js:scalajs-ir_2.10:0.6.22:
+        download error:
+            Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/org/scala-js/scalajs-ir_2.10/0.6.22/scalajs-ir_2.10-0.6.22.pom
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-releases/org/scala-js/scalajs-ir_2.10/0.6.22/scalajs-ir_2.10-0.6.22.pom
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-snapshots/org/scala-js/scalajs-ir_2.10/0.6.22/scalajs-ir_2.10-0.6.22.pom
+            Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/org.scala-js/scalajs-ir_2.10/0.6.22/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/ivy-snapshots/org.scala-js/scalajs-ir_2.10/0.6.22/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/org.scala-js/scalajs-ir_2.10/0.6.22/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.scala-js/scalajs-ir_2.10/0.6.22/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/org/scala-js/scalajs-ir_2.10/0.6.22/scalajs-ir_2.10-0.6.22.pom
+        not found:
+            /Users/kaiim/.ivy2/local/org.scala-js/scalajs-ir_2.10/0.6.22/ivys/ivy.xml
+            /Users/kaiim/.ivy2/local/org.scala-js/scalajs-ir_2.10/0.6.22/ivys/ivy.xml
+    org.scala-js:closure-compiler-externs-java-6:v20160517:
+        download error:
+            Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/org/scala-js/closure-compiler-externs-java-6/v20160517/closure-compiler-externs-java-6-v20160517.pom
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-releases/org/scala-js/closure-compiler-externs-java-6/v20160517/closure-compiler-externs-java-6-v20160517.pom
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-snapshots/org/scala-js/closure-compiler-externs-java-6/v20160517/closure-compiler-externs-java-6-v20160517.pom
+            Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/org.scala-js/closure-compiler-externs-java-6/v20160517/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/ivy-snapshots/org.scala-js/closure-compiler-externs-java-6/v20160517/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/org.scala-js/closure-compiler-externs-java-6/v20160517/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.scala-js/closure-compiler-externs-java-6/v20160517/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/org/scala-js/closure-compiler-externs-java-6/v20160517/closure-compiler-externs-java-6-v20160517.pom
+        not found:
+            /Users/kaiim/.ivy2/local/org.scala-js/closure-compiler-externs-java-6/v20160517/ivys/ivy.xml
+            /Users/kaiim/.ivy2/local/org.scala-js/closure-compiler-externs-java-6/v20160517/ivys/ivy.xml
+    com.google.code.findbugs:jsr305:1.3.9:
+        download error:
+            Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.pom
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-releases/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.pom
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-snapshots/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.pom
+            Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/com.google.code.findbugs/jsr305/1.3.9/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/ivy-snapshots/com.google.code.findbugs/jsr305/1.3.9/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/com.google.code.findbugs/jsr305/1.3.9/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/com.google.code.findbugs/jsr305/1.3.9/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.pom
+        not found:
+            /Users/kaiim/.ivy2/local/com.google.code.findbugs/jsr305/1.3.9/ivys/ivy.xml
+            /Users/kaiim/.ivy2/local/com.google.code.findbugs/jsr305/1.3.9/ivys/ivy.xml
+    io.apigee:rhino:1.7R5pre4:
+        download error:
+            Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/io/apigee/rhino/1.7R5pre4/rhino-1.7R5pre4.pom
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-releases/io/apigee/rhino/1.7R5pre4/rhino-1.7R5pre4.pom
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-snapshots/io/apigee/rhino/1.7R5pre4/rhino-1.7R5pre4.pom
+            Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/io.apigee/rhino/1.7R5pre4/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/ivy-snapshots/io.apigee/rhino/1.7R5pre4/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/io.apigee/rhino/1.7R5pre4/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/io.apigee/rhino/1.7R5pre4/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/io/apigee/rhino/1.7R5pre4/rhino-1.7R5pre4.pom
+        not found:
+            /Users/kaiim/.ivy2/local/io.apigee/rhino/1.7R5pre4/ivys/ivy.xml
+            /Users/kaiim/.ivy2/local/io.apigee/rhino/1.7R5pre4/ivys/ivy.xml
+    io.get-coursier:coursier_2.10:1.0.2:
+        download error:
+            Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/io/get-coursier/coursier_2.10/1.0.2/coursier_2.10-1.0.2.pom
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-releases/io/get-coursier/coursier_2.10/1.0.2/coursier_2.10-1.0.2.pom
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-snapshots/io/get-coursier/coursier_2.10/1.0.2/coursier_2.10-1.0.2.pom
+            Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/io.get-coursier/coursier_2.10/1.0.2/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/ivy-snapshots/io.get-coursier/coursier_2.10/1.0.2/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/io.get-coursier/coursier_2.10/1.0.2/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/io.get-coursier/coursier_2.10/1.0.2/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/io/get-coursier/coursier_2.10/1.0.2/coursier_2.10-1.0.2.pom
+        not found:
+            /Users/kaiim/.ivy2/local/io.get-coursier/coursier_2.10/1.0.2/ivys/ivy.xml
+            /Users/kaiim/.ivy2/local/io.get-coursier/coursier_2.10/1.0.2/ivys/ivy.xml
+    commons-codec:commons-codec:1.10:
+        download error:
+            Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/commons-codec/commons-codec/1.10/commons-codec-1.10.pom
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-releases/commons-codec/commons-codec/1.10/commons-codec-1.10.pom
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-snapshots/commons-codec/commons-codec/1.10/commons-codec-1.10.pom
+            Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/commons-codec/commons-codec/1.10/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/ivy-snapshots/commons-codec/commons-codec/1.10/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/commons-codec/commons-codec/1.10/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/commons-codec/commons-codec/1.10/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/commons-codec/commons-codec/1.10/commons-codec-1.10.pom
+        not found:
+            /Users/kaiim/.ivy2/local/commons-codec/commons-codec/1.10/ivys/ivy.xml
+            /Users/kaiim/.ivy2/local/commons-codec/commons-codec/1.10/ivys/ivy.xml
+    org.scala-js:scalajs-tools_2.10:0.6.22:
+        download error:
+            Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/org/scala-js/scalajs-tools_2.10/0.6.22/scalajs-tools_2.10-0.6.22.pom
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-releases/org/scala-js/scalajs-tools_2.10/0.6.22/scalajs-tools_2.10-0.6.22.pom
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-snapshots/org/scala-js/scalajs-tools_2.10/0.6.22/scalajs-tools_2.10-0.6.22.pom
+            Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/org.scala-js/scalajs-tools_2.10/0.6.22/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/ivy-snapshots/org.scala-js/scalajs-tools_2.10/0.6.22/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/org.scala-js/scalajs-tools_2.10/0.6.22/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.scala-js/scalajs-tools_2.10/0.6.22/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/org/scala-js/scalajs-tools_2.10/0.6.22/scalajs-tools_2.10-0.6.22.pom
+        not found:
+            /Users/kaiim/.ivy2/local/org.scala-js/scalajs-tools_2.10/0.6.22/ivys/ivy.xml
+            /Users/kaiim/.ivy2/local/org.scala-js/scalajs-tools_2.10/0.6.22/ivys/ivy.xml
+    org.scala-sbt:test-interface:1.0:
+        download error:
+            Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/org/scala-sbt/test-interface/1.0/test-interface-1.0.pom
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-releases/org/scala-sbt/test-interface/1.0/test-interface-1.0.pom
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-snapshots/org/scala-sbt/test-interface/1.0/test-interface-1.0.pom
+            Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/test-interface/1.0/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/ivy-snapshots/org.scala-sbt/test-interface/1.0/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/test-interface/1.0/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.scala-sbt/test-interface/1.0/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/org/scala-sbt/test-interface/1.0/test-interface-1.0.pom
+        not found:
+            /Users/kaiim/.ivy2/local/org.scala-sbt/test-interface/1.0/ivys/ivy.xml
+            /Users/kaiim/.ivy2/local/org.scala-sbt/test-interface/1.0/ivys/ivy.xml
+    org.scala-sbt:sbt:0.13.17:
+        download error:
+            Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/org/scala-sbt/sbt/0.13.17/sbt-0.13.17.pom
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-releases/org/scala-sbt/sbt/0.13.17/sbt-0.13.17.pom
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-snapshots/org/scala-sbt/sbt/0.13.17/sbt-0.13.17.pom
+            Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/sbt/0.13.17/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/ivy-snapshots/org.scala-sbt/sbt/0.13.17/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/sbt/0.13.17/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.scala-sbt/sbt/0.13.17/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/org/scala-sbt/sbt/0.13.17/sbt-0.13.17.pom
+        not found:
+            /Users/kaiim/.ivy2/local/org.scala-sbt/sbt/0.13.17/ivys/ivy.xml
+            /Users/kaiim/.ivy2/local/org.scala-sbt/sbt/0.13.17/ivys/ivy.xml
+    org.scala-js:scalajs-sbt-test-adapter_2.10:0.6.22:
+        download error:
+            Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/org/scala-js/scalajs-sbt-test-adapter_2.10/0.6.22/scalajs-sbt-test-adapter_2.10-0.6.22.pom
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-releases/org/scala-js/scalajs-sbt-test-adapter_2.10/0.6.22/scalajs-sbt-test-adapter_2.10-0.6.22.pom
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-snapshots/org/scala-js/scalajs-sbt-test-adapter_2.10/0.6.22/scalajs-sbt-test-adapter_2.10-0.6.22.pom
+            Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/org.scala-js/scalajs-sbt-test-adapter_2.10/0.6.22/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/ivy-snapshots/org.scala-js/scalajs-sbt-test-adapter_2.10/0.6.22/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/org.scala-js/scalajs-sbt-test-adapter_2.10/0.6.22/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.scala-js/scalajs-sbt-test-adapter_2.10/0.6.22/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/org/scala-js/scalajs-sbt-test-adapter_2.10/0.6.22/scalajs-sbt-test-adapter_2.10-0.6.22.pom
+        not found:
+            /Users/kaiim/.ivy2/local/org.scala-js/scalajs-sbt-test-adapter_2.10/0.6.22/ivys/ivy.xml
+            /Users/kaiim/.ivy2/local/org.scala-js/scalajs-sbt-test-adapter_2.10/0.6.22/ivys/ivy.xml
+    io.get-coursier:coursier-cache_2.10:1.0.2:
+        download error:
+            Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/io/get-coursier/coursier-cache_2.10/1.0.2/coursier-cache_2.10-1.0.2.pom
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-releases/io/get-coursier/coursier-cache_2.10/1.0.2/coursier-cache_2.10-1.0.2.pom
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-snapshots/io/get-coursier/coursier-cache_2.10/1.0.2/coursier-cache_2.10-1.0.2.pom
+            Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/io.get-coursier/coursier-cache_2.10/1.0.2/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/ivy-snapshots/io.get-coursier/coursier-cache_2.10/1.0.2/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/io.get-coursier/coursier-cache_2.10/1.0.2/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/io.get-coursier/coursier-cache_2.10/1.0.2/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/io/get-coursier/coursier-cache_2.10/1.0.2/coursier-cache_2.10-1.0.2.pom
+        not found:
+            /Users/kaiim/.ivy2/local/io.get-coursier/coursier-cache_2.10/1.0.2/ivys/ivy.xml
+            /Users/kaiim/.ivy2/local/io.get-coursier/coursier-cache_2.10/1.0.2/ivys/ivy.xml
+    com.google.protobuf:protobuf-java:2.5.0:
+        download error:
+            Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/com/google/protobuf/protobuf-java/2.5.0/protobuf-java-2.5.0.pom
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-releases/com/google/protobuf/protobuf-java/2.5.0/protobuf-java-2.5.0.pom
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-snapshots/com/google/protobuf/protobuf-java/2.5.0/protobuf-java-2.5.0.pom
+            Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/com.google.protobuf/protobuf-java/2.5.0/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/ivy-snapshots/com.google.protobuf/protobuf-java/2.5.0/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/com.google.protobuf/protobuf-java/2.5.0/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/com.google.protobuf/protobuf-java/2.5.0/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/com/google/protobuf/protobuf-java/2.5.0/protobuf-java-2.5.0.pom
+        not found:
+            /Users/kaiim/.ivy2/local/com.google.protobuf/protobuf-java/2.5.0/ivys/ivy.xml
+            /Users/kaiim/.ivy2/local/com.google.protobuf/protobuf-java/2.5.0/ivys/ivy.xml
+    io.get-coursier:sbt-shared;sbtVersion=0.13;scalaVersion=2.10:1.0.2:
+        download error:
+            Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/io/get-coursier/sbt-shared_2.10_0.13/1.0.2/sbt-shared-1.0.2.pom
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-releases/io/get-coursier/sbt-shared_2.10_0.13/1.0.2/sbt-shared-1.0.2.pom
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-snapshots/io/get-coursier/sbt-shared_2.10_0.13/1.0.2/sbt-shared-1.0.2.pom
+            Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/io.get-coursier/sbt-shared/1.0.2/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/ivy-snapshots/io.get-coursier/sbt-shared/1.0.2/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/io.get-coursier/sbt-shared/scala_2.10/sbt_0.13/1.0.2/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/io.get-coursier/sbt-shared/scala_2.10/sbt_0.13/1.0.2/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/io/get-coursier/sbt-shared_2.10_0.13/1.0.2/sbt-shared-1.0.2.pom
+        not found:
+            /Users/kaiim/.ivy2/local/io.get-coursier/sbt-shared/scala_2.10/sbt_0.13/1.0.2/ivys/ivy.xml
+            /Users/kaiim/.ivy2/local/io.get-coursier/sbt-shared/scala_2.10/sbt_0.13/1.0.2/ivys/ivy.xml
+    org.scalaz:scalaz-concurrent_2.10:7.2.16:
+        download error:
+            Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/org/scalaz/scalaz-concurrent_2.10/7.2.16/scalaz-concurrent_2.10-7.2.16.pom
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-releases/org/scalaz/scalaz-concurrent_2.10/7.2.16/scalaz-concurrent_2.10-7.2.16.pom
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-snapshots/org/scalaz/scalaz-concurrent_2.10/7.2.16/scalaz-concurrent_2.10-7.2.16.pom
+            Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/org.scalaz/scalaz-concurrent_2.10/7.2.16/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/ivy-snapshots/org.scalaz/scalaz-concurrent_2.10/7.2.16/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/org.scalaz/scalaz-concurrent_2.10/7.2.16/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.scalaz/scalaz-concurrent_2.10/7.2.16/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/org/scalaz/scalaz-concurrent_2.10/7.2.16/scalaz-concurrent_2.10-7.2.16.pom
+        not found:
+            /Users/kaiim/.ivy2/local/org.scalaz/scalaz-concurrent_2.10/7.2.16/ivys/ivy.xml
+            /Users/kaiim/.ivy2/local/org.scalaz/scalaz-concurrent_2.10/7.2.16/ivys/ivy.xml
+    io.get-coursier:sbt-coursier;sbtVersion=0.13;scalaVersion=2.10:1.0.2:
+        download error:
+            Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/io/get-coursier/sbt-coursier_2.10_0.13/1.0.2/sbt-coursier-1.0.2.pom
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-releases/io/get-coursier/sbt-coursier_2.10_0.13/1.0.2/sbt-coursier-1.0.2.pom
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-snapshots/io/get-coursier/sbt-coursier_2.10_0.13/1.0.2/sbt-coursier-1.0.2.pom
+            Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/io.get-coursier/sbt-coursier/1.0.2/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/ivy-snapshots/io.get-coursier/sbt-coursier/1.0.2/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/io.get-coursier/sbt-coursier/scala_2.10/sbt_0.13/1.0.2/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/io.get-coursier/sbt-coursier/scala_2.10/sbt_0.13/1.0.2/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/io/get-coursier/sbt-coursier_2.10_0.13/1.0.2/sbt-coursier-1.0.2.pom
+        not found:
+            /Users/kaiim/.ivy2/local/io.get-coursier/sbt-coursier/scala_2.10/sbt_0.13/1.0.2/ivys/ivy.xml
+            /Users/kaiim/.ivy2/local/io.get-coursier/sbt-coursier/scala_2.10/sbt_0.13/1.0.2/ivys/ivy.xml
+    org.scalariform:scalariform_2.10:0.1.7:
+        download error:
+            Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/org/scalariform/scalariform_2.10/0.1.7/scalariform_2.10-0.1.7.pom
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-releases/org/scalariform/scalariform_2.10/0.1.7/scalariform_2.10-0.1.7.pom
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-snapshots/org/scalariform/scalariform_2.10/0.1.7/scalariform_2.10-0.1.7.pom
+            Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/org.scalariform/scalariform_2.10/0.1.7/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/ivy-snapshots/org.scalariform/scalariform_2.10/0.1.7/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/org.scalariform/scalariform_2.10/0.1.7/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.scalariform/scalariform_2.10/0.1.7/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/org/scalariform/scalariform_2.10/0.1.7/scalariform_2.10-0.1.7.pom
+        not found:
+            /Users/kaiim/.ivy2/local/org.scalariform/scalariform_2.10/0.1.7/ivys/ivy.xml
+            /Users/kaiim/.ivy2/local/org.scalariform/scalariform_2.10/0.1.7/ivys/ivy.xml
+    org.scalaz:scalaz-core_2.10:7.2.16:
+        download error:
+            Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/org/scalaz/scalaz-core_2.10/7.2.16/scalaz-core_2.10-7.2.16.pom
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-releases/org/scalaz/scalaz-core_2.10/7.2.16/scalaz-core_2.10-7.2.16.pom
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-snapshots/org/scalaz/scalaz-core_2.10/7.2.16/scalaz-core_2.10-7.2.16.pom
+            Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/org.scalaz/scalaz-core_2.10/7.2.16/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/ivy-snapshots/org.scalaz/scalaz-core_2.10/7.2.16/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/org.scalaz/scalaz-core_2.10/7.2.16/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.scalaz/scalaz-core_2.10/7.2.16/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/org/scalaz/scalaz-core_2.10/7.2.16/scalaz-core_2.10-7.2.16.pom
+        not found:
+            /Users/kaiim/.ivy2/local/org.scalaz/scalaz-core_2.10/7.2.16/ivys/ivy.xml
+            /Users/kaiim/.ivy2/local/org.scalaz/scalaz-core_2.10/7.2.16/ivys/ivy.xml
+    org.scalamacros:quasiquotes_2.10:2.1.0:
+        download error:
+            Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/org/scalamacros/quasiquotes_2.10/2.1.0/quasiquotes_2.10-2.1.0.pom
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-releases/org/scalamacros/quasiquotes_2.10/2.1.0/quasiquotes_2.10-2.1.0.pom
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-snapshots/org/scalamacros/quasiquotes_2.10/2.1.0/quasiquotes_2.10-2.1.0.pom
+            Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/org.scalamacros/quasiquotes_2.10/2.1.0/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/ivy-snapshots/org.scalamacros/quasiquotes_2.10/2.1.0/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/org.scalamacros/quasiquotes_2.10/2.1.0/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.scalamacros/quasiquotes_2.10/2.1.0/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/org/scalamacros/quasiquotes_2.10/2.1.0/quasiquotes_2.10-2.1.0.pom
+        not found:
+            /Users/kaiim/.ivy2/local/org.scalamacros/quasiquotes_2.10/2.1.0/ivys/ivy.xml
+            /Users/kaiim/.ivy2/local/org.scalamacros/quasiquotes_2.10/2.1.0/ivys/ivy.xml
+    org.apache.commons:commons-lang3:3.4:
+        download error:
+            Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4.pom
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-releases/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4.pom
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-snapshots/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4.pom
+            Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/org.apache.commons/commons-lang3/3.4/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/ivy-snapshots/org.apache.commons/commons-lang3/3.4/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/org.apache.commons/commons-lang3/3.4/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.apache.commons/commons-lang3/3.4/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4.pom
+        not found:
+            /Users/kaiim/.ivy2/local/org.apache.commons/commons-lang3/3.4/ivys/ivy.xml
+            /Users/kaiim/.ivy2/local/org.apache.commons/commons-lang3/3.4/ivys/ivy.xml
+    org.scala-lang:scala-reflect:2.10.7:
+        download error:
+            Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.10.7/scala-reflect-2.10.7.pom
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-releases/org/scala-lang/scala-reflect/2.10.7/scala-reflect-2.10.7.pom
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-snapshots/org/scala-lang/scala-reflect/2.10.7/scala-reflect-2.10.7.pom
+            Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/org.scala-lang/scala-reflect/2.10.7/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/ivy-snapshots/org.scala-lang/scala-reflect/2.10.7/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/org.scala-lang/scala-reflect/2.10.7/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.scala-lang/scala-reflect/2.10.7/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.10.7/scala-reflect-2.10.7.pom
+        not found:
+            /Users/kaiim/.ivy2/local/org.scala-lang/scala-reflect/2.10.7/ivys/ivy.xml
+            /Users/kaiim/.ivy2/local/org.scala-lang/scala-reflect/2.10.7/ivys/ivy.xml
+    com.google.code.gson:gson:2.2.4:
+        download error:
+            Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/com/google/code/gson/gson/2.2.4/gson-2.2.4.pom
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-releases/com/google/code/gson/gson/2.2.4/gson-2.2.4.pom
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-snapshots/com/google/code/gson/gson/2.2.4/gson-2.2.4.pom
+            Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/com.google.code.gson/gson/2.2.4/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/ivy-snapshots/com.google.code.gson/gson/2.2.4/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/com.google.code.gson/gson/2.2.4/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/com.google.code.gson/gson/2.2.4/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/com/google/code/gson/gson/2.2.4/gson-2.2.4.pom
+        not found:
+            /Users/kaiim/.ivy2/local/com.google.code.gson/gson/2.2.4/ivys/ivy.xml
+            /Users/kaiim/.ivy2/local/com.google.code.gson/gson/2.2.4/ivys/ivy.xml
+    com.googlecode.json-simple:json-simple:1.1.1:
+        download error:
+            Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1.pom
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-releases/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1.pom
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-snapshots/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1.pom
+            Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/com.googlecode.json-simple/json-simple/1.1.1/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/ivy-snapshots/com.googlecode.json-simple/json-simple/1.1.1/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/com.googlecode.json-simple/json-simple/1.1.1/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/com.googlecode.json-simple/json-simple/1.1.1/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1.pom
+        not found:
+            /Users/kaiim/.ivy2/local/com.googlecode.json-simple/json-simple/1.1.1/ivys/ivy.xml
+            /Users/kaiim/.ivy2/local/com.googlecode.json-simple/json-simple/1.1.1/ivys/ivy.xml
+    com.google.guava:guava:19.0:
+        download error:
+            Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/com/google/guava/guava/19.0/guava-19.0.pom
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-releases/com/google/guava/guava/19.0/guava-19.0.pom
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-snapshots/com/google/guava/guava/19.0/guava-19.0.pom
+            Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/com.google.guava/guava/19.0/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/ivy-snapshots/com.google.guava/guava/19.0/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/com.google.guava/guava/19.0/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/com.google.guava/guava/19.0/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/com/google/guava/guava/19.0/guava-19.0.pom
+        not found:
+            /Users/kaiim/.ivy2/local/com.google.guava/guava/19.0/ivys/ivy.xml
+            /Users/kaiim/.ivy2/local/com.google.guava/guava/19.0/ivys/ivy.xml
+    org.scala-js:sbt-scalajs;sbtVersion=0.13;scalaVersion=2.10:0.6.22:
+        download error:
+            Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/org/scala-js/sbt-scalajs_2.10_0.13/0.6.22/sbt-scalajs-0.6.22.pom
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-releases/org/scala-js/sbt-scalajs_2.10_0.13/0.6.22/sbt-scalajs-0.6.22.pom
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-snapshots/org/scala-js/sbt-scalajs_2.10_0.13/0.6.22/sbt-scalajs-0.6.22.pom
+            Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/org.scala-js/sbt-scalajs/0.6.22/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/ivy-snapshots/org.scala-js/sbt-scalajs/0.6.22/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/org.scala-js/sbt-scalajs/scala_2.10/sbt_0.13/0.6.22/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.scala-js/sbt-scalajs/scala_2.10/sbt_0.13/0.6.22/ivys/ivy.xml
+            Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/org/scala-js/sbt-scalajs_2.10_0.13/0.6.22/sbt-scalajs-0.6.22.pom
+        not found:
+            /Users/kaiim/.ivy2/local/org.scala-js/sbt-scalajs/scala_2.10/sbt_0.13/0.6.22/ivys/ivy.xml
+            /Users/kaiim/.ivy2/local/org.scala-js/sbt-scalajs/scala_2.10/sbt_0.13/0.6.22/ivys/ivy.xml
+[error] (*:coursierSbtClassifiersResolution) coursier.ResolutionException: Encountered 36 error(s) in dependency resolution:
+[error]     com.dwijnand:sbt-compat;sbtVersion=0.13;scalaVersion=2.10:1.2.5:
+[error]         download error:
+[error]             Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/com/dwijnand/sbt-compat_2.10_0.13/1.2.5/sbt-compat-1.2.5.pom
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-releases/com/dwijnand/sbt-compat_2.10_0.13/1.2.5/sbt-compat-1.2.5.pom
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-snapshots/com/dwijnand/sbt-compat_2.10_0.13/1.2.5/sbt-compat-1.2.5.pom
+[error]             Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/com.dwijnand/sbt-compat/1.2.5/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/ivy-snapshots/com.dwijnand/sbt-compat/1.2.5/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/com.dwijnand/sbt-compat/scala_2.10/sbt_0.13/1.2.5/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/com.dwijnand/sbt-compat/scala_2.10/sbt_0.13/1.2.5/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/com/dwijnand/sbt-compat_2.10_0.13/1.2.5/sbt-compat-1.2.5.pom
+[error]         not found:
+[error]             /Users/kaiim/.ivy2/local/com.dwijnand/sbt-compat/scala_2.10/sbt_0.13/1.2.5/ivys/ivy.xml
+[error]             /Users/kaiim/.ivy2/local/com.dwijnand/sbt-compat/scala_2.10/sbt_0.13/1.2.5/ivys/ivy.xml
+[error]     args4j:args4j:2.0.26:
+[error]         download error:
+[error]             Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/args4j/args4j/2.0.26/args4j-2.0.26.pom
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-releases/args4j/args4j/2.0.26/args4j-2.0.26.pom
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-snapshots/args4j/args4j/2.0.26/args4j-2.0.26.pom
+[error]             Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/args4j/args4j/2.0.26/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/ivy-snapshots/args4j/args4j/2.0.26/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/args4j/args4j/2.0.26/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/args4j/args4j/2.0.26/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/args4j/args4j/2.0.26/args4j-2.0.26.pom
+[error]         not found:
+[error]             /Users/kaiim/.ivy2/local/args4j/args4j/2.0.26/ivys/ivy.xml
+[error]             /Users/kaiim/.ivy2/local/args4j/args4j/2.0.26/ivys/ivy.xml
+[error]     org.scalaj:scalaj-http_2.10:2.2.1:
+[error]         download error:
+[error]             Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/org/scalaj/scalaj-http_2.10/2.2.1/scalaj-http_2.10-2.2.1.pom
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-releases/org/scalaj/scalaj-http_2.10/2.2.1/scalaj-http_2.10-2.2.1.pom
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-snapshots/org/scalaj/scalaj-http_2.10/2.2.1/scalaj-http_2.10-2.2.1.pom
+[error]             Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/org.scalaj/scalaj-http_2.10/2.2.1/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/ivy-snapshots/org.scalaj/scalaj-http_2.10/2.2.1/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/org.scalaj/scalaj-http_2.10/2.2.1/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.scalaj/scalaj-http_2.10/2.2.1/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/org/scalaj/scalaj-http_2.10/2.2.1/scalaj-http_2.10-2.2.1.pom
+[error]         not found:
+[error]             /Users/kaiim/.ivy2/local/org.scalaj/scalaj-http_2.10/2.2.1/ivys/ivy.xml
+[error]             /Users/kaiim/.ivy2/local/org.scalaj/scalaj-http_2.10/2.2.1/ivys/ivy.xml
+[error]     org.scalastyle:scalastyle_2.10:0.8.0:
+[error]         download error:
+[error]             Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/org/scalastyle/scalastyle_2.10/0.8.0/scalastyle_2.10-0.8.0.pom
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-releases/org/scalastyle/scalastyle_2.10/0.8.0/scalastyle_2.10-0.8.0.pom
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-snapshots/org/scalastyle/scalastyle_2.10/0.8.0/scalastyle_2.10-0.8.0.pom
+[error]             Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/org.scalastyle/scalastyle_2.10/0.8.0/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/ivy-snapshots/org.scalastyle/scalastyle_2.10/0.8.0/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/org.scalastyle/scalastyle_2.10/0.8.0/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.scalastyle/scalastyle_2.10/0.8.0/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/org/scalastyle/scalastyle_2.10/0.8.0/scalastyle_2.10-0.8.0.pom
+[error]         not found:
+[error]             /Users/kaiim/.ivy2/local/org.scalastyle/scalastyle_2.10/0.8.0/ivys/ivy.xml
+[error]             /Users/kaiim/.ivy2/local/org.scalastyle/scalastyle_2.10/0.8.0/ivys/ivy.xml
+[error]     org.scala-js:closure-compiler-java-6:v20160517:
+[error]         download error:
+[error]             Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/org/scala-js/closure-compiler-java-6/v20160517/closure-compiler-java-6-v20160517.pom
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-releases/org/scala-js/closure-compiler-java-6/v20160517/closure-compiler-java-6-v20160517.pom
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-snapshots/org/scala-js/closure-compiler-java-6/v20160517/closure-compiler-java-6-v20160517.pom
+[error]             Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/org.scala-js/closure-compiler-java-6/v20160517/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/ivy-snapshots/org.scala-js/closure-compiler-java-6/v20160517/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/org.scala-js/closure-compiler-java-6/v20160517/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.scala-js/closure-compiler-java-6/v20160517/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/org/scala-js/closure-compiler-java-6/v20160517/closure-compiler-java-6-v20160517.pom
+[error]         not found:
+[error]             /Users/kaiim/.ivy2/local/org.scala-js/closure-compiler-java-6/v20160517/ivys/ivy.xml
+[error]             /Users/kaiim/.ivy2/local/org.scala-js/closure-compiler-java-6/v20160517/ivys/ivy.xml
+[error]     io.get-coursier:coursier-extra_2.10:1.0.2:
+[error]         download error:
+[error]             Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/io/get-coursier/coursier-extra_2.10/1.0.2/coursier-extra_2.10-1.0.2.pom
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-releases/io/get-coursier/coursier-extra_2.10/1.0.2/coursier-extra_2.10-1.0.2.pom
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-snapshots/io/get-coursier/coursier-extra_2.10/1.0.2/coursier-extra_2.10-1.0.2.pom
+[error]             Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/io.get-coursier/coursier-extra_2.10/1.0.2/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/ivy-snapshots/io.get-coursier/coursier-extra_2.10/1.0.2/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/io.get-coursier/coursier-extra_2.10/1.0.2/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/io.get-coursier/coursier-extra_2.10/1.0.2/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/io/get-coursier/coursier-extra_2.10/1.0.2/coursier-extra_2.10-1.0.2.pom
+[error]         not found:
+[error]             /Users/kaiim/.ivy2/local/io.get-coursier/coursier-extra_2.10/1.0.2/ivys/ivy.xml
+[error]             /Users/kaiim/.ivy2/local/io.get-coursier/coursier-extra_2.10/1.0.2/ivys/ivy.xml
+[error]     org.scalaz:scalaz-effect_2.10:7.2.16:
+[error]         download error:
+[error]             Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/org/scalaz/scalaz-effect_2.10/7.2.16/scalaz-effect_2.10-7.2.16.pom
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-releases/org/scalaz/scalaz-effect_2.10/7.2.16/scalaz-effect_2.10-7.2.16.pom
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-snapshots/org/scalaz/scalaz-effect_2.10/7.2.16/scalaz-effect_2.10-7.2.16.pom
+[error]             Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/org.scalaz/scalaz-effect_2.10/7.2.16/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/ivy-snapshots/org.scalaz/scalaz-effect_2.10/7.2.16/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/org.scalaz/scalaz-effect_2.10/7.2.16/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.scalaz/scalaz-effect_2.10/7.2.16/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/org/scalaz/scalaz-effect_2.10/7.2.16/scalaz-effect_2.10-7.2.16.pom
+[error]         not found:
+[error]             /Users/kaiim/.ivy2/local/org.scalaz/scalaz-effect_2.10/7.2.16/ivys/ivy.xml
+[error]             /Users/kaiim/.ivy2/local/org.scalaz/scalaz-effect_2.10/7.2.16/ivys/ivy.xml
+[error]     org.scala-js:scalajs-js-envs_2.10:0.6.22:
+[error]         download error:
+[error]             Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/org/scala-js/scalajs-js-envs_2.10/0.6.22/scalajs-js-envs_2.10-0.6.22.pom
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-releases/org/scala-js/scalajs-js-envs_2.10/0.6.22/scalajs-js-envs_2.10-0.6.22.pom
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-snapshots/org/scala-js/scalajs-js-envs_2.10/0.6.22/scalajs-js-envs_2.10-0.6.22.pom
+[error]             Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/org.scala-js/scalajs-js-envs_2.10/0.6.22/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/ivy-snapshots/org.scala-js/scalajs-js-envs_2.10/0.6.22/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/org.scala-js/scalajs-js-envs_2.10/0.6.22/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.scala-js/scalajs-js-envs_2.10/0.6.22/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/org/scala-js/scalajs-js-envs_2.10/0.6.22/scalajs-js-envs_2.10-0.6.22.pom
+[error]         not found:
+[error]             /Users/kaiim/.ivy2/local/org.scala-js/scalajs-js-envs_2.10/0.6.22/ivys/ivy.xml
+[error]             /Users/kaiim/.ivy2/local/org.scala-js/scalajs-js-envs_2.10/0.6.22/ivys/ivy.xml
+[error]     org.webjars:envjs:1.2:
+[error]         download error:
+[error]             Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/org/webjars/envjs/1.2/envjs-1.2.pom
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-releases/org/webjars/envjs/1.2/envjs-1.2.pom
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-snapshots/org/webjars/envjs/1.2/envjs-1.2.pom
+[error]             Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/org.webjars/envjs/1.2/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/ivy-snapshots/org.webjars/envjs/1.2/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/org.webjars/envjs/1.2/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.webjars/envjs/1.2/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/org/webjars/envjs/1.2/envjs-1.2.pom
+[error]         not found:
+[error]             /Users/kaiim/.ivy2/local/org.webjars/envjs/1.2/ivys/ivy.xml
+[error]             /Users/kaiim/.ivy2/local/org.webjars/envjs/1.2/ivys/ivy.xml
+[error]     com.typesafe.sbteclipse:sbteclipse-plugin;sbtVersion=0.13;scalaVersion=2.10:5.2.4:
+[error]         download error:
+[error]             Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/com/typesafe/sbteclipse/sbteclipse-plugin_2.10_0.13/5.2.4/sbteclipse-plugin-5.2.4.pom
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-releases/com/typesafe/sbteclipse/sbteclipse-plugin_2.10_0.13/5.2.4/sbteclipse-plugin-5.2.4.pom
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-snapshots/com/typesafe/sbteclipse/sbteclipse-plugin_2.10_0.13/5.2.4/sbteclipse-plugin-5.2.4.pom
+[error]             Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/com.typesafe.sbteclipse/sbteclipse-plugin/5.2.4/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/ivy-snapshots/com.typesafe.sbteclipse/sbteclipse-plugin/5.2.4/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/com.typesafe.sbteclipse/sbteclipse-plugin/scala_2.10/sbt_0.13/5.2.4/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/com.typesafe.sbteclipse/sbteclipse-plugin/scala_2.10/sbt_0.13/5.2.4/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/com/typesafe/sbteclipse/sbteclipse-plugin_2.10_0.13/5.2.4/sbteclipse-plugin-5.2.4.pom
+[error]         not found:
+[error]             /Users/kaiim/.ivy2/local/com.typesafe.sbteclipse/sbteclipse-plugin/scala_2.10/sbt_0.13/5.2.4/ivys/ivy.xml
+[error]             /Users/kaiim/.ivy2/local/com.typesafe.sbteclipse/sbteclipse-plugin/scala_2.10/sbt_0.13/5.2.4/ivys/ivy.xml
+[error]     com.typesafe:config:1.2.0:
+[error]         download error:
+[error]             Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/com/typesafe/config/1.2.0/config-1.2.0.pom
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-releases/com/typesafe/config/1.2.0/config-1.2.0.pom
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-snapshots/com/typesafe/config/1.2.0/config-1.2.0.pom
+[error]             Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/com.typesafe/config/1.2.0/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/ivy-snapshots/com.typesafe/config/1.2.0/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/com.typesafe/config/1.2.0/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/com.typesafe/config/1.2.0/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/com/typesafe/config/1.2.0/config-1.2.0.pom
+[error]         not found:
+[error]             /Users/kaiim/.ivy2/local/com.typesafe/config/1.2.0/ivys/ivy.xml
+[error]             /Users/kaiim/.ivy2/local/com.typesafe/config/1.2.0/ivys/ivy.xml
+[error]     org.scala-lang:scala-library:2.10.7:
+[error]         download error:
+[error]             Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.10.7/scala-library-2.10.7.pom
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-releases/org/scala-lang/scala-library/2.10.7/scala-library-2.10.7.pom
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-snapshots/org/scala-lang/scala-library/2.10.7/scala-library-2.10.7.pom
+[error]             Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/org.scala-lang/scala-library/2.10.7/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/ivy-snapshots/org.scala-lang/scala-library/2.10.7/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/org.scala-lang/scala-library/2.10.7/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.scala-lang/scala-library/2.10.7/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.10.7/scala-library-2.10.7.pom
+[error]         not found:
+[error]             /Users/kaiim/.ivy2/local/org.scala-lang/scala-library/2.10.7/ivys/ivy.xml
+[error]             /Users/kaiim/.ivy2/local/org.scala-lang/scala-library/2.10.7/ivys/ivy.xml
+[error]     org.scala-js:scalajs-ir_2.10:0.6.22:
+[error]         download error:
+[error]             Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/org/scala-js/scalajs-ir_2.10/0.6.22/scalajs-ir_2.10-0.6.22.pom
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-releases/org/scala-js/scalajs-ir_2.10/0.6.22/scalajs-ir_2.10-0.6.22.pom
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-snapshots/org/scala-js/scalajs-ir_2.10/0.6.22/scalajs-ir_2.10-0.6.22.pom
+[error]             Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/org.scala-js/scalajs-ir_2.10/0.6.22/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/ivy-snapshots/org.scala-js/scalajs-ir_2.10/0.6.22/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/org.scala-js/scalajs-ir_2.10/0.6.22/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.scala-js/scalajs-ir_2.10/0.6.22/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/org/scala-js/scalajs-ir_2.10/0.6.22/scalajs-ir_2.10-0.6.22.pom
+[error]         not found:
+[error]             /Users/kaiim/.ivy2/local/org.scala-js/scalajs-ir_2.10/0.6.22/ivys/ivy.xml
+[error]             /Users/kaiim/.ivy2/local/org.scala-js/scalajs-ir_2.10/0.6.22/ivys/ivy.xml
+[error]     org.scala-js:closure-compiler-externs-java-6:v20160517:
+[error]         download error:
+[error]             Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/org/scala-js/closure-compiler-externs-java-6/v20160517/closure-compiler-externs-java-6-v20160517.pom
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-releases/org/scala-js/closure-compiler-externs-java-6/v20160517/closure-compiler-externs-java-6-v20160517.pom
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-snapshots/org/scala-js/closure-compiler-externs-java-6/v20160517/closure-compiler-externs-java-6-v20160517.pom
+[error]             Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/org.scala-js/closure-compiler-externs-java-6/v20160517/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/ivy-snapshots/org.scala-js/closure-compiler-externs-java-6/v20160517/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/org.scala-js/closure-compiler-externs-java-6/v20160517/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.scala-js/closure-compiler-externs-java-6/v20160517/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/org/scala-js/closure-compiler-externs-java-6/v20160517/closure-compiler-externs-java-6-v20160517.pom
+[error]         not found:
+[error]             /Users/kaiim/.ivy2/local/org.scala-js/closure-compiler-externs-java-6/v20160517/ivys/ivy.xml
+[error]             /Users/kaiim/.ivy2/local/org.scala-js/closure-compiler-externs-java-6/v20160517/ivys/ivy.xml
+[error]     com.google.code.findbugs:jsr305:1.3.9:
+[error]         download error:
+[error]             Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.pom
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-releases/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.pom
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-snapshots/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.pom
+[error]             Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/com.google.code.findbugs/jsr305/1.3.9/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/ivy-snapshots/com.google.code.findbugs/jsr305/1.3.9/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/com.google.code.findbugs/jsr305/1.3.9/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/com.google.code.findbugs/jsr305/1.3.9/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.pom
+[error]         not found:
+[error]             /Users/kaiim/.ivy2/local/com.google.code.findbugs/jsr305/1.3.9/ivys/ivy.xml
+[error]             /Users/kaiim/.ivy2/local/com.google.code.findbugs/jsr305/1.3.9/ivys/ivy.xml
+[error]     io.apigee:rhino:1.7R5pre4:
+[error]         download error:
+[error]             Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/io/apigee/rhino/1.7R5pre4/rhino-1.7R5pre4.pom
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-releases/io/apigee/rhino/1.7R5pre4/rhino-1.7R5pre4.pom
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-snapshots/io/apigee/rhino/1.7R5pre4/rhino-1.7R5pre4.pom
+[error]             Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/io.apigee/rhino/1.7R5pre4/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/ivy-snapshots/io.apigee/rhino/1.7R5pre4/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/io.apigee/rhino/1.7R5pre4/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/io.apigee/rhino/1.7R5pre4/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/io/apigee/rhino/1.7R5pre4/rhino-1.7R5pre4.pom
+[error]         not found:
+[error]             /Users/kaiim/.ivy2/local/io.apigee/rhino/1.7R5pre4/ivys/ivy.xml
+[error]             /Users/kaiim/.ivy2/local/io.apigee/rhino/1.7R5pre4/ivys/ivy.xml
+[error]     io.get-coursier:coursier_2.10:1.0.2:
+[error]         download error:
+[error]             Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/io/get-coursier/coursier_2.10/1.0.2/coursier_2.10-1.0.2.pom
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-releases/io/get-coursier/coursier_2.10/1.0.2/coursier_2.10-1.0.2.pom
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-snapshots/io/get-coursier/coursier_2.10/1.0.2/coursier_2.10-1.0.2.pom
+[error]             Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/io.get-coursier/coursier_2.10/1.0.2/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/ivy-snapshots/io.get-coursier/coursier_2.10/1.0.2/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/io.get-coursier/coursier_2.10/1.0.2/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/io.get-coursier/coursier_2.10/1.0.2/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/io/get-coursier/coursier_2.10/1.0.2/coursier_2.10-1.0.2.pom
+[error]         not found:
+[error]             /Users/kaiim/.ivy2/local/io.get-coursier/coursier_2.10/1.0.2/ivys/ivy.xml
+[error]             /Users/kaiim/.ivy2/local/io.get-coursier/coursier_2.10/1.0.2/ivys/ivy.xml
+[error]     commons-codec:commons-codec:1.10:
+[error]         download error:
+[error]             Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/commons-codec/commons-codec/1.10/commons-codec-1.10.pom
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-releases/commons-codec/commons-codec/1.10/commons-codec-1.10.pom
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-snapshots/commons-codec/commons-codec/1.10/commons-codec-1.10.pom
+[error]             Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/commons-codec/commons-codec/1.10/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/ivy-snapshots/commons-codec/commons-codec/1.10/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/commons-codec/commons-codec/1.10/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/commons-codec/commons-codec/1.10/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/commons-codec/commons-codec/1.10/commons-codec-1.10.pom
+[error]         not found:
+[error]             /Users/kaiim/.ivy2/local/commons-codec/commons-codec/1.10/ivys/ivy.xml
+[error]             /Users/kaiim/.ivy2/local/commons-codec/commons-codec/1.10/ivys/ivy.xml
+[error]     org.scala-js:scalajs-tools_2.10:0.6.22:
+[error]         download error:
+[error]             Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/org/scala-js/scalajs-tools_2.10/0.6.22/scalajs-tools_2.10-0.6.22.pom
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-releases/org/scala-js/scalajs-tools_2.10/0.6.22/scalajs-tools_2.10-0.6.22.pom
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-snapshots/org/scala-js/scalajs-tools_2.10/0.6.22/scalajs-tools_2.10-0.6.22.pom
+[error]             Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/org.scala-js/scalajs-tools_2.10/0.6.22/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/ivy-snapshots/org.scala-js/scalajs-tools_2.10/0.6.22/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/org.scala-js/scalajs-tools_2.10/0.6.22/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.scala-js/scalajs-tools_2.10/0.6.22/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/org/scala-js/scalajs-tools_2.10/0.6.22/scalajs-tools_2.10-0.6.22.pom
+[error]         not found:
+[error]             /Users/kaiim/.ivy2/local/org.scala-js/scalajs-tools_2.10/0.6.22/ivys/ivy.xml
+[error]             /Users/kaiim/.ivy2/local/org.scala-js/scalajs-tools_2.10/0.6.22/ivys/ivy.xml
+[error]     org.scala-sbt:test-interface:1.0:
+[error]         download error:
+[error]             Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/org/scala-sbt/test-interface/1.0/test-interface-1.0.pom
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-releases/org/scala-sbt/test-interface/1.0/test-interface-1.0.pom
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-snapshots/org/scala-sbt/test-interface/1.0/test-interface-1.0.pom
+[error]             Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/test-interface/1.0/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/ivy-snapshots/org.scala-sbt/test-interface/1.0/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/test-interface/1.0/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.scala-sbt/test-interface/1.0/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/org/scala-sbt/test-interface/1.0/test-interface-1.0.pom
+[error]         not found:
+[error]             /Users/kaiim/.ivy2/local/org.scala-sbt/test-interface/1.0/ivys/ivy.xml
+[error]             /Users/kaiim/.ivy2/local/org.scala-sbt/test-interface/1.0/ivys/ivy.xml
+[error]     org.scala-sbt:sbt:0.13.17:
+[error]         download error:
+[error]             Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/org/scala-sbt/sbt/0.13.17/sbt-0.13.17.pom
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-releases/org/scala-sbt/sbt/0.13.17/sbt-0.13.17.pom
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-snapshots/org/scala-sbt/sbt/0.13.17/sbt-0.13.17.pom
+[error]             Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/sbt/0.13.17/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/ivy-snapshots/org.scala-sbt/sbt/0.13.17/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/sbt/0.13.17/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.scala-sbt/sbt/0.13.17/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/org/scala-sbt/sbt/0.13.17/sbt-0.13.17.pom
+[error]         not found:
+[error]             /Users/kaiim/.ivy2/local/org.scala-sbt/sbt/0.13.17/ivys/ivy.xml
+[error]             /Users/kaiim/.ivy2/local/org.scala-sbt/sbt/0.13.17/ivys/ivy.xml
+[error]     org.scala-js:scalajs-sbt-test-adapter_2.10:0.6.22:
+[error]         download error:
+[error]             Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/org/scala-js/scalajs-sbt-test-adapter_2.10/0.6.22/scalajs-sbt-test-adapter_2.10-0.6.22.pom
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-releases/org/scala-js/scalajs-sbt-test-adapter_2.10/0.6.22/scalajs-sbt-test-adapter_2.10-0.6.22.pom
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-snapshots/org/scala-js/scalajs-sbt-test-adapter_2.10/0.6.22/scalajs-sbt-test-adapter_2.10-0.6.22.pom
+[error]             Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/org.scala-js/scalajs-sbt-test-adapter_2.10/0.6.22/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/ivy-snapshots/org.scala-js/scalajs-sbt-test-adapter_2.10/0.6.22/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/org.scala-js/scalajs-sbt-test-adapter_2.10/0.6.22/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.scala-js/scalajs-sbt-test-adapter_2.10/0.6.22/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/org/scala-js/scalajs-sbt-test-adapter_2.10/0.6.22/scalajs-sbt-test-adapter_2.10-0.6.22.pom
+[error]         not found:
+[error]             /Users/kaiim/.ivy2/local/org.scala-js/scalajs-sbt-test-adapter_2.10/0.6.22/ivys/ivy.xml
+[error]             /Users/kaiim/.ivy2/local/org.scala-js/scalajs-sbt-test-adapter_2.10/0.6.22/ivys/ivy.xml
+[error]     io.get-coursier:coursier-cache_2.10:1.0.2:
+[error]         download error:
+[error]             Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/io/get-coursier/coursier-cache_2.10/1.0.2/coursier-cache_2.10-1.0.2.pom
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-releases/io/get-coursier/coursier-cache_2.10/1.0.2/coursier-cache_2.10-1.0.2.pom
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-snapshots/io/get-coursier/coursier-cache_2.10/1.0.2/coursier-cache_2.10-1.0.2.pom
+[error]             Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/io.get-coursier/coursier-cache_2.10/1.0.2/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/ivy-snapshots/io.get-coursier/coursier-cache_2.10/1.0.2/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/io.get-coursier/coursier-cache_2.10/1.0.2/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/io.get-coursier/coursier-cache_2.10/1.0.2/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/io/get-coursier/coursier-cache_2.10/1.0.2/coursier-cache_2.10-1.0.2.pom
+[error]         not found:
+[error]             /Users/kaiim/.ivy2/local/io.get-coursier/coursier-cache_2.10/1.0.2/ivys/ivy.xml
+[error]             /Users/kaiim/.ivy2/local/io.get-coursier/coursier-cache_2.10/1.0.2/ivys/ivy.xml
+[error]     com.google.protobuf:protobuf-java:2.5.0:
+[error]         download error:
+[error]             Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/com/google/protobuf/protobuf-java/2.5.0/protobuf-java-2.5.0.pom
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-releases/com/google/protobuf/protobuf-java/2.5.0/protobuf-java-2.5.0.pom
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-snapshots/com/google/protobuf/protobuf-java/2.5.0/protobuf-java-2.5.0.pom
+[error]             Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/com.google.protobuf/protobuf-java/2.5.0/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/ivy-snapshots/com.google.protobuf/protobuf-java/2.5.0/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/com.google.protobuf/protobuf-java/2.5.0/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/com.google.protobuf/protobuf-java/2.5.0/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/com/google/protobuf/protobuf-java/2.5.0/protobuf-java-2.5.0.pom
+[error]         not found:
+[error]             /Users/kaiim/.ivy2/local/com.google.protobuf/protobuf-java/2.5.0/ivys/ivy.xml
+[error]             /Users/kaiim/.ivy2/local/com.google.protobuf/protobuf-java/2.5.0/ivys/ivy.xml
+[error]     io.get-coursier:sbt-shared;sbtVersion=0.13;scalaVersion=2.10:1.0.2:
+[error]         download error:
+[error]             Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/io/get-coursier/sbt-shared_2.10_0.13/1.0.2/sbt-shared-1.0.2.pom
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-releases/io/get-coursier/sbt-shared_2.10_0.13/1.0.2/sbt-shared-1.0.2.pom
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-snapshots/io/get-coursier/sbt-shared_2.10_0.13/1.0.2/sbt-shared-1.0.2.pom
+[error]             Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/io.get-coursier/sbt-shared/1.0.2/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/ivy-snapshots/io.get-coursier/sbt-shared/1.0.2/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/io.get-coursier/sbt-shared/scala_2.10/sbt_0.13/1.0.2/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/io.get-coursier/sbt-shared/scala_2.10/sbt_0.13/1.0.2/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/io/get-coursier/sbt-shared_2.10_0.13/1.0.2/sbt-shared-1.0.2.pom
+[error]         not found:
+[error]             /Users/kaiim/.ivy2/local/io.get-coursier/sbt-shared/scala_2.10/sbt_0.13/1.0.2/ivys/ivy.xml
+[error]             /Users/kaiim/.ivy2/local/io.get-coursier/sbt-shared/scala_2.10/sbt_0.13/1.0.2/ivys/ivy.xml
+[error]     org.scalaz:scalaz-concurrent_2.10:7.2.16:
+[error]         download error:
+[error]             Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/org/scalaz/scalaz-concurrent_2.10/7.2.16/scalaz-concurrent_2.10-7.2.16.pom
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-releases/org/scalaz/scalaz-concurrent_2.10/7.2.16/scalaz-concurrent_2.10-7.2.16.pom
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-snapshots/org/scalaz/scalaz-concurrent_2.10/7.2.16/scalaz-concurrent_2.10-7.2.16.pom
+[error]             Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/org.scalaz/scalaz-concurrent_2.10/7.2.16/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/ivy-snapshots/org.scalaz/scalaz-concurrent_2.10/7.2.16/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/org.scalaz/scalaz-concurrent_2.10/7.2.16/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.scalaz/scalaz-concurrent_2.10/7.2.16/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/org/scalaz/scalaz-concurrent_2.10/7.2.16/scalaz-concurrent_2.10-7.2.16.pom
+[error]         not found:
+[error]             /Users/kaiim/.ivy2/local/org.scalaz/scalaz-concurrent_2.10/7.2.16/ivys/ivy.xml
+[error]             /Users/kaiim/.ivy2/local/org.scalaz/scalaz-concurrent_2.10/7.2.16/ivys/ivy.xml
+[error]     io.get-coursier:sbt-coursier;sbtVersion=0.13;scalaVersion=2.10:1.0.2:
+[error]         download error:
+[error]             Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/io/get-coursier/sbt-coursier_2.10_0.13/1.0.2/sbt-coursier-1.0.2.pom
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-releases/io/get-coursier/sbt-coursier_2.10_0.13/1.0.2/sbt-coursier-1.0.2.pom
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-snapshots/io/get-coursier/sbt-coursier_2.10_0.13/1.0.2/sbt-coursier-1.0.2.pom
+[error]             Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/io.get-coursier/sbt-coursier/1.0.2/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/ivy-snapshots/io.get-coursier/sbt-coursier/1.0.2/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/io.get-coursier/sbt-coursier/scala_2.10/sbt_0.13/1.0.2/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/io.get-coursier/sbt-coursier/scala_2.10/sbt_0.13/1.0.2/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/io/get-coursier/sbt-coursier_2.10_0.13/1.0.2/sbt-coursier-1.0.2.pom
+[error]         not found:
+[error]             /Users/kaiim/.ivy2/local/io.get-coursier/sbt-coursier/scala_2.10/sbt_0.13/1.0.2/ivys/ivy.xml
+[error]             /Users/kaiim/.ivy2/local/io.get-coursier/sbt-coursier/scala_2.10/sbt_0.13/1.0.2/ivys/ivy.xml
+[error]     org.scalariform:scalariform_2.10:0.1.7:
+[error]         download error:
+[error]             Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/org/scalariform/scalariform_2.10/0.1.7/scalariform_2.10-0.1.7.pom
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-releases/org/scalariform/scalariform_2.10/0.1.7/scalariform_2.10-0.1.7.pom
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-snapshots/org/scalariform/scalariform_2.10/0.1.7/scalariform_2.10-0.1.7.pom
+[error]             Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/org.scalariform/scalariform_2.10/0.1.7/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/ivy-snapshots/org.scalariform/scalariform_2.10/0.1.7/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/org.scalariform/scalariform_2.10/0.1.7/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.scalariform/scalariform_2.10/0.1.7/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/org/scalariform/scalariform_2.10/0.1.7/scalariform_2.10-0.1.7.pom
+[error]         not found:
+[error]             /Users/kaiim/.ivy2/local/org.scalariform/scalariform_2.10/0.1.7/ivys/ivy.xml
+[error]             /Users/kaiim/.ivy2/local/org.scalariform/scalariform_2.10/0.1.7/ivys/ivy.xml
+[error]     org.scalaz:scalaz-core_2.10:7.2.16:
+[error]         download error:
+[error]             Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/org/scalaz/scalaz-core_2.10/7.2.16/scalaz-core_2.10-7.2.16.pom
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-releases/org/scalaz/scalaz-core_2.10/7.2.16/scalaz-core_2.10-7.2.16.pom
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-snapshots/org/scalaz/scalaz-core_2.10/7.2.16/scalaz-core_2.10-7.2.16.pom
+[error]             Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/org.scalaz/scalaz-core_2.10/7.2.16/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/ivy-snapshots/org.scalaz/scalaz-core_2.10/7.2.16/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/org.scalaz/scalaz-core_2.10/7.2.16/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.scalaz/scalaz-core_2.10/7.2.16/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/org/scalaz/scalaz-core_2.10/7.2.16/scalaz-core_2.10-7.2.16.pom
+[error]         not found:
+[error]             /Users/kaiim/.ivy2/local/org.scalaz/scalaz-core_2.10/7.2.16/ivys/ivy.xml
+[error]             /Users/kaiim/.ivy2/local/org.scalaz/scalaz-core_2.10/7.2.16/ivys/ivy.xml
+[error]     org.scalamacros:quasiquotes_2.10:2.1.0:
+[error]         download error:
+[error]             Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/org/scalamacros/quasiquotes_2.10/2.1.0/quasiquotes_2.10-2.1.0.pom
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-releases/org/scalamacros/quasiquotes_2.10/2.1.0/quasiquotes_2.10-2.1.0.pom
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-snapshots/org/scalamacros/quasiquotes_2.10/2.1.0/quasiquotes_2.10-2.1.0.pom
+[error]             Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/org.scalamacros/quasiquotes_2.10/2.1.0/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/ivy-snapshots/org.scalamacros/quasiquotes_2.10/2.1.0/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/org.scalamacros/quasiquotes_2.10/2.1.0/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.scalamacros/quasiquotes_2.10/2.1.0/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/org/scalamacros/quasiquotes_2.10/2.1.0/quasiquotes_2.10-2.1.0.pom
+[error]         not found:
+[error]             /Users/kaiim/.ivy2/local/org.scalamacros/quasiquotes_2.10/2.1.0/ivys/ivy.xml
+[error]             /Users/kaiim/.ivy2/local/org.scalamacros/quasiquotes_2.10/2.1.0/ivys/ivy.xml
+[error]     org.apache.commons:commons-lang3:3.4:
+[error]         download error:
+[error]             Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4.pom
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-releases/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4.pom
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-snapshots/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4.pom
+[error]             Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/org.apache.commons/commons-lang3/3.4/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/ivy-snapshots/org.apache.commons/commons-lang3/3.4/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/org.apache.commons/commons-lang3/3.4/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.apache.commons/commons-lang3/3.4/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4.pom
+[error]         not found:
+[error]             /Users/kaiim/.ivy2/local/org.apache.commons/commons-lang3/3.4/ivys/ivy.xml
+[error]             /Users/kaiim/.ivy2/local/org.apache.commons/commons-lang3/3.4/ivys/ivy.xml
+[error]     org.scala-lang:scala-reflect:2.10.7:
+[error]         download error:
+[error]             Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.10.7/scala-reflect-2.10.7.pom
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-releases/org/scala-lang/scala-reflect/2.10.7/scala-reflect-2.10.7.pom
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-snapshots/org/scala-lang/scala-reflect/2.10.7/scala-reflect-2.10.7.pom
+[error]             Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/org.scala-lang/scala-reflect/2.10.7/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/ivy-snapshots/org.scala-lang/scala-reflect/2.10.7/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/org.scala-lang/scala-reflect/2.10.7/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.scala-lang/scala-reflect/2.10.7/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.10.7/scala-reflect-2.10.7.pom
+[error]         not found:
+[error]             /Users/kaiim/.ivy2/local/org.scala-lang/scala-reflect/2.10.7/ivys/ivy.xml
+[error]             /Users/kaiim/.ivy2/local/org.scala-lang/scala-reflect/2.10.7/ivys/ivy.xml
+[error]     com.google.code.gson:gson:2.2.4:
+[error]         download error:
+[error]             Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/com/google/code/gson/gson/2.2.4/gson-2.2.4.pom
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-releases/com/google/code/gson/gson/2.2.4/gson-2.2.4.pom
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-snapshots/com/google/code/gson/gson/2.2.4/gson-2.2.4.pom
+[error]             Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/com.google.code.gson/gson/2.2.4/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/ivy-snapshots/com.google.code.gson/gson/2.2.4/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/com.google.code.gson/gson/2.2.4/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/com.google.code.gson/gson/2.2.4/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/com/google/code/gson/gson/2.2.4/gson-2.2.4.pom
+[error]         not found:
+[error]             /Users/kaiim/.ivy2/local/com.google.code.gson/gson/2.2.4/ivys/ivy.xml
+[error]             /Users/kaiim/.ivy2/local/com.google.code.gson/gson/2.2.4/ivys/ivy.xml
+[error]     com.googlecode.json-simple:json-simple:1.1.1:
+[error]         download error:
+[error]             Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1.pom
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-releases/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1.pom
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-snapshots/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1.pom
+[error]             Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/com.googlecode.json-simple/json-simple/1.1.1/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/ivy-snapshots/com.googlecode.json-simple/json-simple/1.1.1/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/com.googlecode.json-simple/json-simple/1.1.1/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/com.googlecode.json-simple/json-simple/1.1.1/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1.pom
+[error]         not found:
+[error]             /Users/kaiim/.ivy2/local/com.googlecode.json-simple/json-simple/1.1.1/ivys/ivy.xml
+[error]             /Users/kaiim/.ivy2/local/com.googlecode.json-simple/json-simple/1.1.1/ivys/ivy.xml
+[error]     com.google.guava:guava:19.0:
+[error]         download error:
+[error]             Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/com/google/guava/guava/19.0/guava-19.0.pom
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-releases/com/google/guava/guava/19.0/guava-19.0.pom
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-snapshots/com/google/guava/guava/19.0/guava-19.0.pom
+[error]             Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/com.google.guava/guava/19.0/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/ivy-snapshots/com.google.guava/guava/19.0/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/com.google.guava/guava/19.0/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/com.google.guava/guava/19.0/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/com/google/guava/guava/19.0/guava-19.0.pom
+[error]         not found:
+[error]             /Users/kaiim/.ivy2/local/com.google.guava/guava/19.0/ivys/ivy.xml
+[error]             /Users/kaiim/.ivy2/local/com.google.guava/guava/19.0/ivys/ivy.xml
+[error]     org.scala-js:sbt-scalajs;sbtVersion=0.13;scalaVersion=2.10:0.6.22:
+[error]         download error:
+[error]             Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/org/scala-js/sbt-scalajs_2.10_0.13/0.6.22/sbt-scalajs-0.6.22.pom
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-releases/org/scala-js/sbt-scalajs_2.10_0.13/0.6.22/sbt-scalajs-0.6.22.pom
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/maven-snapshots/org/scala-js/sbt-scalajs_2.10_0.13/0.6.22/sbt-scalajs-0.6.22.pom
+[error]             Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/org.scala-js/sbt-scalajs/0.6.22/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/ivy-snapshots/org.scala-js/sbt-scalajs/0.6.22/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.typesafe.com (repo.typesafe.com) while downloading https://repo.typesafe.com/typesafe/ivy-releases/org.scala-js/sbt-scalajs/scala_2.10/sbt_0.13/0.6.22/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo.scala-sbt.org (repo.scala-sbt.org) while downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.scala-js/sbt-scalajs/scala_2.10/sbt_0.13/0.6.22/ivys/ivy.xml
+[error]             Caught java.net.UnknownHostException: repo1.maven.org (repo1.maven.org) while downloading https://repo1.maven.org/maven2/org/scala-js/sbt-scalajs_2.10_0.13/0.6.22/sbt-scalajs-0.6.22.pom
+[error]         not found:
+[error]             /Users/kaiim/.ivy2/local/org.scala-js/sbt-scalajs/scala_2.10/sbt_0.13/0.6.22/ivys/ivy.xml
+[error]             /Users/kaiim/.ivy2/local/org.scala-js/sbt-scalajs/scala_2.10/sbt_0.13/0.6.22/ivys/ivy.xml
