@@ -1,0 +1,8 @@
+[0m[[0minfo[0m] [0m[32mStackOverflowSuite:[0m[0m
+[0m[[0minfo[0m] [0m[32m- testObject can be instantiated[0m[0m
+[0m[[0minfo[0m] [0m[32m- test numéro 1 - Parsing[0m[0m
+[0m[[0minfo[0m] [0m[32m- test numéro 1 - filtre and join[0m[0m
+[0m[[0minfo[0m] [0m[32m- test numéro 3 - group posting[0m[0m
+[0m[[0minfo[0m] [0m[32m- test numéro 4 - vector posting[0m[0m
+[0m[[0minfo[0m] [0m[32m- 'kmeans' work.[0m[0m
+[0m[[0minfo[0m] [0m[32m- 'clusterResults' work.[0m[0m
