@@ -14,7 +14,7 @@ http://alaska.epfl.ch/~dockermoocs/bigdata/stackoverflow.csv à copier dans src/
 
 La partie k-mean étant déjà développé. Il fallait donc preparer les données, les parser et preparer quelques fonctions qui vont servir aux calculs des kmeans. Ce projet à pour but de mettre en pratique le scala/spark dans un écosysteme de machine learning.
 
-# Week 3 (En réalisation)   
+# Week 3
 
 Le jeu de données est fourni par Kaggle et est documenté ici:
 
