@@ -1,0 +1,15 @@
+[0m[[0minfo[0m] [0m[32mTimeUsageSuite:[0m[0m
+[0m[[0minfo[0m] [0m[32m- test 1 - col name => strucTypes[0m[0m
+[0m[[0minfo[0m] [0m[31m- Test 2 -> Row *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  java.lang.IndexOutOfBoundsException: 3[0m[0m
+[0m[[0minfo[0m] [0m[31m  at scala.collection.LinearSeqOptimized$class.apply(LinearSeqOptimized.scala:65)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at scala.collection.immutable.List.apply(List.scala:84)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at timeusage.TimeUsage$.timeusage$TimeUsage$$get_inf$1(TimeUsage.scala:110)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at timeusage.TimeUsage$$anonfun$classifiedColumns$5.apply(TimeUsage.scala:115)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at timeusage.TimeUsage$$anonfun$classifiedColumns$5.apply(TimeUsage.scala:115)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at scala.collection.TraversableLike$$anonfun$filterImpl$1.apply(TraversableLike.scala:248)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at scala.collection.immutable.List.foreach(List.scala:392)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at scala.collection.TraversableLike$class.filterImpl(TraversableLike.scala:247)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at scala.collection.TraversableLike$class.filter(TraversableLike.scala:259)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at scala.collection.AbstractTraversable.filter(Traversable.scala:104)[0m[0m
+[0m[[0minfo[0m] [0m[31m  ...[0m[0m

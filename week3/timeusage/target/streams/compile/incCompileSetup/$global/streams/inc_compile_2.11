@@ -1,0 +1,512 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/kaiim/Downloads/timeusage/target/scala-2.11/classes
+compile options:
+1 items
+0 -> -deprecation
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.12
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+29 items
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/kaiim/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$1.class
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/kaiim/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$10.class
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/kaiim/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$11.class
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/kaiim/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$12.class
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/kaiim/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$2.class
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/kaiim/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$3.class
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/kaiim/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$4$$anonfun$5$$anonfun$apply$1.class
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/kaiim/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$4$$anonfun$5.class
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/kaiim/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$4$$anonfun$6.class
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/kaiim/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$4.class
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/kaiim/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$7.class
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/kaiim/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$8$$anonfun$apply$2.class
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/kaiim/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$8.class
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/kaiim/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$9$$anonfun$apply$3.class
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/kaiim/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$9.class
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/kaiim/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$dfSchema$1.class
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/kaiim/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$row$1.class
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/kaiim/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$timeUsageGroupedTyped$1.class
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/kaiim/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$timeUsageGroupedTyped$2.class
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/kaiim/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$timeUsageGroupedTyped$3.class
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/kaiim/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$timeUsageGroupedTyped$4.class
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/kaiim/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$timeUsageGroupedTyped$5.class
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/kaiim/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$typecreator1$1.class
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/kaiim/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$typecreator2$1.class
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/kaiim/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$typecreator3$1.class
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/kaiim/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$.class
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/kaiim/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage.class
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/kaiim/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsageRow$.class
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/kaiim/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsageRow.class
+binary dependencies:
+6 items
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/jre/lib/rt.jar
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/kaiim/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-catalyst_2.11/2.1.0/spark-catalyst_2.11-2.1.0.jar
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/kaiim/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-core_2.11/2.1.0/spark-core_2.11-2.1.0.jar
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/kaiim/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-sql_2.11/2.1.0/spark-sql_2.11-2.1.0.jar
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/kaiim/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12.jar
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/kaiim/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.12/scala-reflect-2.11.12.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+29 items
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$1
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$10
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$11
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$12
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$2
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$3
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$4
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$4$$anonfun$5
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$4$$anonfun$5$$anonfun$apply$1
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$4$$anonfun$6
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$7
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$8
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$8$$anonfun$apply$2
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$9
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$9$$anonfun$apply$3
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$dfSchema$1
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$row$1
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$timeUsageGroupedTyped$1
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$timeUsageGroupedTyped$2
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$timeUsageGroupedTyped$3
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$timeUsageGroupedTyped$4
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$timeUsageGroupedTyped$5
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$typecreator1$1
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$typecreator2$1
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$typecreator3$1
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsageRow
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsageRow$
+used names:
+294 items
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> $m
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> $m$untyped
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> $typecreator1
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> $typecreator2
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> $typecreator3
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> $u
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> &&
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> *
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> +
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> ::
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> <
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> <=
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> <byname>
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> <init>
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> <repeated>
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> ==
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> ===
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> >=
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> ?0
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> A
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> A1
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> AbstractFunction6
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Any
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> AnyRef
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Array
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> ArrayOps
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> B
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> B1
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Boolean
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Builder
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> C
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> CanBuildFrom
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Class
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> ClassLoader
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> ClassSymbol
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> ClassTag
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Col
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Coll
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Column
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> ColumnName
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> DataFrame
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> DataType
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Dataset
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Double
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> DoubleType
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Encoder
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Function1
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Function2
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> GenTraversableOnce
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> IN
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Inclusive
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> IndexOutOfBoundsException
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> IndexedSeq
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Int
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Internal
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Iterable
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Iterator
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> JavaUniverse
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> K
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> KeyValueGroupedDataset
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> List
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Long
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Map
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> MatchError
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Metadata
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Mirror
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> ModuleSymbol
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Nil
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> None
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Nothing
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Object
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Option
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Ordering
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Path
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Paths
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Predef
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Product
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> RDD
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Range
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> ReificationSupportApi
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> RelationalGroupedDataset
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> RichDouble
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> RichInt
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Row
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> ScalaRunTime
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Seq
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Serializable
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> SingleType
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Singleton
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Some
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> SparkContext
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> SparkSession
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Statics
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> String
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> StringContext
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> StringOps
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> StringType
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> StructField
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> StructType
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Symbol
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> T
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> T0
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> T1
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> T2
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> T3
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> T4
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> T5
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> T6
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> That
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> ThisType
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> TimeUsage
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> TimeUsageRow
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Tuple2
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Tuple3
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Tuple4
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Tuple6
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Type
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> TypeCreator
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> TypeRef
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> TypeSymbol
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> TypeTag
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> TypedColumn
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> U
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> U1
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> U2
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> U3
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> URI
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> URL
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Unit
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Universe
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> _$7
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> _1
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> _2
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> _3
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> _4
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> _toString
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> acc
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> age
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> ageProjection
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> agg
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> anyHash
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> apache
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> appName
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> apply
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> as
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> asInstanceOf
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> asModule
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> asType
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> augmentString
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> avg
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> between
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> builder
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> canBuildFrom
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> categoryMappings
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> classifiedColumns
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> collection
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> columnNames
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> columns
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> config
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> createDataFrame
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> createOrReplaceTempView
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> d
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> data
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> dataFrame
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> df
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> dfSchema
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> divide
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> doubleHash
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> doubleWrapper
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> drop
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> empty
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> eq
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> exists
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> expressions
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> file
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> finalDf
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> finalizeHash
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> first
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> flatMap
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> foldLeft
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> fsPath
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> functions
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> get
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> getClass
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> getClassLoader
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> getOrCreate
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> getOrElse
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> getResource
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> groupBy
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> groupByKey
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> groups
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> head
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> headOption
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> headerColumns
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> i
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> immutable
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> implicits
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> index
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> initDf
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> intWrapper
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> internal
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> isInstanceOf
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> it
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> java
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> line
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> map
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> mapPartitionsWithIndex
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> mapValues
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> materializeClassTag
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> materializeTypeTag
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> math
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> mix
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> moduleClass
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> name
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> ne
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> newProductEncoder
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> nio
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> option2Iterable
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> orderBy
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> org
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> other
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> otherColumns
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> otherProjection
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> otherwise
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> package
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> prefixes
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> primaryNeeds
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> primaryNeedsColumns
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> primaryNeedsProjection
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> rdd
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> read
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> reduce
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> refArrayOps
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> reflect
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> reificationSupport
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> resource
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> results
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> round
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> round1
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> row
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> runtime
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> runtimeMirror
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> s
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> scala
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> scalalang
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> schema
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> select
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> selectType
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> sex
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> sexProjection
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> show
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> sortBy
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> spark
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> sparkContext
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> split
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> sql
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> startsWith
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> staticClass
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> staticModule
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> staticPackage
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> summaryDf
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> summed
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> symbolToColumn
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> tail
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> textFile
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeUsageByLifePeriod
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeUsageGrouped
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeUsageGroupedSqlQuery
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeUsageSummary
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeUsageSummaryDf
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> to
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> toDouble
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> toString
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> toTypeConstructor
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> toURI
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> tuple
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> typed
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> typedProductIterator
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> types
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> unchecked
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> universe
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> viewName
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> when
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> where
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> work
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> workColumns
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> workProjection
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> working
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> workingStatusProjection
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> x
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> zipWithIndex
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> ||
+product stamps:
+29 items
+/Users/kaiim/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$1.class -> lastModified(1554400418000)
+/Users/kaiim/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$10.class -> lastModified(1554400418000)
+/Users/kaiim/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$11.class -> lastModified(1554400418000)
+/Users/kaiim/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$12.class -> lastModified(1554400418000)
+/Users/kaiim/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$2.class -> lastModified(1554400418000)
+/Users/kaiim/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$3.class -> lastModified(1554400418000)
+/Users/kaiim/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$4$$anonfun$5$$anonfun$apply$1.class -> lastModified(1554400418000)
+/Users/kaiim/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$4$$anonfun$5.class -> lastModified(1554400418000)
+/Users/kaiim/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$4$$anonfun$6.class -> lastModified(1554400418000)
+/Users/kaiim/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$4.class -> lastModified(1554400418000)
+/Users/kaiim/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$7.class -> lastModified(1554400418000)
+/Users/kaiim/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$8$$anonfun$apply$2.class -> lastModified(1554400418000)
+/Users/kaiim/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$8.class -> lastModified(1554400418000)
+/Users/kaiim/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$9$$anonfun$apply$3.class -> lastModified(1554400418000)
+/Users/kaiim/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$9.class -> lastModified(1554400418000)
+/Users/kaiim/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$dfSchema$1.class -> lastModified(1554400418000)
+/Users/kaiim/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$row$1.class -> lastModified(1554400418000)
+/Users/kaiim/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$timeUsageGroupedTyped$1.class -> lastModified(1554400418000)
+/Users/kaiim/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$timeUsageGroupedTyped$2.class -> lastModified(1554400418000)
+/Users/kaiim/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$timeUsageGroupedTyped$3.class -> lastModified(1554400418000)
+/Users/kaiim/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$timeUsageGroupedTyped$4.class -> lastModified(1554400418000)
+/Users/kaiim/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$timeUsageGroupedTyped$5.class -> lastModified(1554400418000)
+/Users/kaiim/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$typecreator1$1.class -> lastModified(1554400418000)
+/Users/kaiim/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$typecreator2$1.class -> lastModified(1554400418000)
+/Users/kaiim/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$typecreator3$1.class -> lastModified(1554400418000)
+/Users/kaiim/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$.class -> lastModified(1554400418000)
+/Users/kaiim/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage.class -> lastModified(1554400418000)
+/Users/kaiim/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsageRow$.class -> lastModified(1554400418000)
+/Users/kaiim/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsageRow.class -> lastModified(1554400418000)
+source stamps:
+1 items
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> hash(d79728b33ed2c59556f1896ffb57aa067e6692c6)
+binary stamps:
+6 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1522278011000)
+/Users/kaiim/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-catalyst_2.11/2.1.0/spark-catalyst_2.11-2.1.0.jar -> lastModified(1481872148000)
+/Users/kaiim/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-core_2.11/2.1.0/spark-core_2.11-2.1.0.jar -> lastModified(1481871925000)
+/Users/kaiim/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-sql_2.11/2.1.0/spark-sql_2.11-2.1.0.jar -> lastModified(1481872304000)
+/Users/kaiim/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12.jar -> lastModified(1509673049000)
+/Users/kaiim/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.12/scala-reflect-2.11.12.jar -> lastModified(1509673056000)
+class names:
+6 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/kaiim/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-catalyst_2.11/2.1.0/spark-catalyst_2.11-2.1.0.jar -> org.apache.spark.sql.types.DataType
+/Users/kaiim/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-core_2.11/2.1.0/spark-core_2.11-2.1.0.jar -> org.apache.spark.SparkContext
+/Users/kaiim/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-sql_2.11/2.1.0/spark-sql_2.11-2.1.0.jar -> org.apache.spark.sql.RelationalGroupedDataset
+/Users/kaiim/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12.jar -> scala.runtime.AbstractFunction6
+/Users/kaiim/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.12/scala-reflect-2.11.12.jar -> scala.reflect.api.TypeCreator
+internal apis:
+1 items
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw6dXyrgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAA3c3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwKZR39HQABm5vdGlmeXNxAH4ADCVVLqd0AARyZWFkc3EAfgAMjoGnonQAB3dvcmtpbmdzcQB+AAwevaWgdAAEd2FpdHNxAH4ADLOh6N90AA5jb3B5JGRlZmF1bHQkMnNxAH4ADGCE0Et0AA0kYXNJbnN0YW5jZU9mc3EAfgAM28hZ6HQAFXRpbWVVc2FnZUdyb3VwZWRUeXBlZHNxAH4ADAfq4zB0AA5jb3B5JGRlZmF1bHQkNXNxAH4ADDoT63d0AAxUaW1lVXNhZ2VSb3dzcQB+AAzjzwvKdAAMcHJvZHVjdEFyaXR5c3EAfgAMpRm+7XQABmVxdWFsc3NxAH4ADGR2NPh0AAlUaW1lVXNhZ2VzcQB+AAzPBWKMdAAMYXNJbnN0YW5jZU9mc3EAfgAMyM78oHQAE3RpbWVVc2FnZUdyb3VwZWRTcWxzcQB+AAxltjLVdAAMc3luY2hyb25pemVkc3EAfgAMVtYRzHQADSRpc0luc3RhbmNlT2ZzcQB+AAwg9rr+dAAGZnNQYXRoc3EAfgAMHdl//HQACGNhbkVxdWFsc3EAfgAMA8Gl03QAEHRpbWVVc2FnZVN1bW1hcnlzcQB+AAw36CFYdAADcm93c3EAfgAMkMtr/HQAEWNsYXNzaWZpZWRDb2x1bW5zc3EAfgAMkAbMBnQADmNvcHkkZGVmYXVsdCQ0c3EAfgAM6NRtAHQABG1haW5zcQB+AAyn0FbudAANcHJvZHVjdFByZWZpeHNxAH4ADDngaN50AANhZ2VzcQB+AAz7pbPGdAAEd29ya3NxAH4ADBWEmu50AAlub3RpZnlBbGxzcQB+AAz0JYxNdAAVdGltZVVzYWdlQnlMaWZlUGVyaW9kc3EAfgAMMzEVUXQAEHRpbWVVc2FnZUdyb3VwZWRzcQB+AAx9it7tdAADc2V4c3EAfgAMqyl+rXQADGlzSW5zdGFuY2VPZnNxAH4ADO4ca9R0AAY8aW5pdD5zcQB+AAyA/0NfdAAFc3BhcmtzcQB+AAzlnyuUdAACPT1zcQB+AAw65YLadAAFY2xvbmVzcQB+AAxYJbpddAAYdGltZVVzYWdlR3JvdXBlZFNxbFF1ZXJ5c3EAfgAMcCV92nQACGRmU2NoZW1hc3EAfgAMmrx/lXQABiRpbml0JHNxAH4ADF3qxJ90ABV0aW1lVXNhZ2VTdW1tYXJ5VHlwZWRzcQB+AAyZylxudAAOY29weSRkZWZhdWx0JDNzcQB+AAw8PmcddAAEY29weXNxAH4ADIk06910AAh0b1N0cmluZ3NxAH4ADIWCzrh0AAxwcmltYXJ5TmVlZHNzcQB+AAyhfpX8dAACIT1zcQB+AAyXrZYTdAAIZ2V0Q2xhc3NzcQB+AAwufINUdAAOY29weSRkZWZhdWx0JDFzcQB+AAzT3BnsdAAOY29weSRkZWZhdWx0JDZzcQB+AAz1wZzXdAACbmVzcQB+AAybwt8SdAACZXFzcQB+AAxLHOcJdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAMkLDSmHQABW90aGVyc3EAfgAM07R1SnQAAiMjc3EAfgAMy4H1LHQACGZpbmFsaXplc3EAfgAMXBN6anQADnByb2R1Y3RFbGVtZW50c3EAfgAMZGHy6nQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AhXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAE3RpbWV1c2FnZS5UaW1lVXNhZ2V1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AJ1zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AhUwACWluaGVyaXRlZHEAfgCFTAAHcGFyZW50c3EAfgCFeHEAfgCic3EAfgCddXEAfgCAAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgCGcQB+AI91cQB+AJAAAAAAc3EAfgCSAHEAfgA7dXEAfgCVAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AKF0AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgChc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgC9dXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4AqnhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AmHQABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AsVsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AoXNxAH4AsHQABUFycmF5cQB+ALZ1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4AsHQABlN0cmluZ3NxAH4AtHNxAH4At3VxAH4AugAAAANzcQB+ALx0AARqYXZhc3EAfgC8dAAEbGFuZ3EAfgDBc3EAfgCddXEAfgCAAAAAAHNxAH4AnXVxAH4A1QAAAAJzcQB+ALB0AAZPYmplY3RxAH4A2XNxAH4AsHQAA0FueXEAfgC2c3EAfgCCcQB+AI91cQB+AJAAAAAAc3EAfgCSAHQAFnRpbWV1c2FnZS5UaW1lVXNhZ2VSb3d1cQB+AJUAAAAAfnEAfgCXdAAIQ2xhc3NEZWZ1cQB+AJsAAAAAc3EAfgCdcQB+AKNzcQB+AJ1zcQB+AKVzcQB+AJ11cQB+AIAAAAAAc3EAfgCddXEAfgCAAAAAAHNxAH4AnXVxAH4A1QAAAAZzcQB+ALB0AAxTZXJpYWxpemFibGVzcQB+ALRzcQB+ALd1cQB+ALoAAAACc3EAfgC8cQB+AL9xAH4AwXNxAH4AsHEAfgD6c3EAfgC0c3EAfgC3dXEAfgC6AAAAA3NxAH4AvHEAfgDdc3EAfgC8dAACaW9xAH4AwXNxAH4AsHQAB1Byb2R1Y3RxAH4A+3NxAH4AsHQABkVxdWFsc3EAfgD7c3EAfgCwcQB+AOVzcQB+ALRzcQB+ALd1cQB+ALoAAAADc3EAfgC8cQB+AN1zcQB+ALxxAH4A33EAfgDBc3EAfgCwcQB+AOdxAH4A+3VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQACXRpbWV1c2FnZXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABael8BSJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAA6L1VzZXJzL2thaWltL0Rvd25sb2Fkcy90aW1ldXNhZ2UvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFNeXKLM+0sWVVvGJb/tXqgZ+ZpLG
+external apis:
+0 items
+source infos:
+1 items
+/Users/kaiim/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> 
+AAAAAAAAAAA=
+compilations:
+47 items
+00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABaeOr9h11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9Vc2Vycy9rYWlpbS9Eb3dubG9hZHMvdGltZXVzYWdlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABaeO2K9p1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9Vc2Vycy9rYWlpbS9Eb3dubG9hZHMvdGltZXVzYWdlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABaePUMsl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9Vc2Vycy9rYWlpbS9Eb3dubG9hZHMvdGltZXVzYWdlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+03 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABaePwJ651cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9Vc2Vycy9rYWlpbS9Eb3dubG9hZHMvdGltZXVzYWdlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+04 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABaePxFS91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9Vc2Vycy9rYWlpbS9Eb3dubG9hZHMvdGltZXVzYWdlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+05 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABaePxZRN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9Vc2Vycy9rYWlpbS9Eb3dubG9hZHMvdGltZXVzYWdlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+06 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABaePyGl91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9Vc2Vycy9rYWlpbS9Eb3dubG9hZHMvdGltZXVzYWdlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+07 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABaePzl/J1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9Vc2Vycy9rYWlpbS9Eb3dubG9hZHMvdGltZXVzYWdlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+08 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABaeP0IWZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9Vc2Vycy9rYWlpbS9Eb3dubG9hZHMvdGltZXVzYWdlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+09 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABaeS7kYR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9Vc2Vycy9rYWlpbS9Eb3dubG9hZHMvdGltZXVzYWdlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+10 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABaeTJsPx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9Vc2Vycy9rYWlpbS9Eb3dubG9hZHMvdGltZXVzYWdlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+11 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABaeePwcl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9Vc2Vycy9rYWlpbS9Eb3dubG9hZHMvdGltZXVzYWdlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+12 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABaeeSwpN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9Vc2Vycy9rYWlpbS9Eb3dubG9hZHMvdGltZXVzYWdlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+13 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABaeeYqJV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9Vc2Vycy9rYWlpbS9Eb3dubG9hZHMvdGltZXVzYWdlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+14 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABaeeaERd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9Vc2Vycy9rYWlpbS9Eb3dubG9hZHMvdGltZXVzYWdlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+15 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABaeeis7Z1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9Vc2Vycy9rYWlpbS9Eb3dubG9hZHMvdGltZXVzYWdlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+16 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABaeejzad1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9Vc2Vycy9rYWlpbS9Eb3dubG9hZHMvdGltZXVzYWdlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+17 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABaeemjad1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9Vc2Vycy9rYWlpbS9Eb3dubG9hZHMvdGltZXVzYWdlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+18 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABaeepFox1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9Vc2Vycy9rYWlpbS9Eb3dubG9hZHMvdGltZXVzYWdlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+19 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABaeepydx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9Vc2Vycy9rYWlpbS9Eb3dubG9hZHMvdGltZXVzYWdlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+20 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABaeeqWoR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9Vc2Vycy9rYWlpbS9Eb3dubG9hZHMvdGltZXVzYWdlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+21 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABaeeqyQV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9Vc2Vycy9rYWlpbS9Eb3dubG9hZHMvdGltZXVzYWdlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+22 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABaeetm651cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9Vc2Vycy9rYWlpbS9Eb3dubG9hZHMvdGltZXVzYWdlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+23 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABaeexQnN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9Vc2Vycy9rYWlpbS9Eb3dubG9hZHMvdGltZXVzYWdlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+24 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABaeexc8t1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9Vc2Vycy9rYWlpbS9Eb3dubG9hZHMvdGltZXVzYWdlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+25 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABaeeyXAh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9Vc2Vycy9rYWlpbS9Eb3dubG9hZHMvdGltZXVzYWdlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+26 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABaee9WaF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9Vc2Vycy9rYWlpbS9Eb3dubG9hZHMvdGltZXVzYWdlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+27 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABaee91311cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9Vc2Vycy9rYWlpbS9Eb3dubG9hZHMvdGltZXVzYWdlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+28 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABaefEs7R1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9Vc2Vycy9rYWlpbS9Eb3dubG9hZHMvdGltZXVzYWdlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+29 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABaefFivZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9Vc2Vycy9rYWlpbS9Eb3dubG9hZHMvdGltZXVzYWdlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+30 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABaefJq051cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9Vc2Vycy9rYWlpbS9Eb3dubG9hZHMvdGltZXVzYWdlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+31 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABaefLnCF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9Vc2Vycy9rYWlpbS9Eb3dubG9hZHMvdGltZXVzYWdlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+32 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABaefP6yR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9Vc2Vycy9rYWlpbS9Eb3dubG9hZHMvdGltZXVzYWdlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+33 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABaefQz991cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9Vc2Vycy9rYWlpbS9Eb3dubG9hZHMvdGltZXVzYWdlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+34 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABaefRg891cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9Vc2Vycy9rYWlpbS9Eb3dubG9hZHMvdGltZXVzYWdlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+35 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABaefTodx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9Vc2Vycy9rYWlpbS9Eb3dubG9hZHMvdGltZXVzYWdlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+36 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABaehAFUN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9Vc2Vycy9rYWlpbS9Eb3dubG9hZHMvdGltZXVzYWdlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+37 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABaehBcZV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9Vc2Vycy9rYWlpbS9Eb3dubG9hZHMvdGltZXVzYWdlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+38 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABaehIJDh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9Vc2Vycy9rYWlpbS9Eb3dubG9hZHMvdGltZXVzYWdlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+39 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABaeiFTCB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9Vc2Vycy9rYWlpbS9Eb3dubG9hZHMvdGltZXVzYWdlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+40 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABaeio4Jl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9Vc2Vycy9rYWlpbS9Eb3dubG9hZHMvdGltZXVzYWdlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+41 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABaei2GmN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9Vc2Vycy9rYWlpbS9Eb3dubG9hZHMvdGltZXVzYWdlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+42 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABaekDIGF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9Vc2Vycy9rYWlpbS9Eb3dubG9hZHMvdGltZXVzYWdlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+43 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABaekM3hV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9Vc2Vycy9rYWlpbS9Eb3dubG9hZHMvdGltZXVzYWdlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+44 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABaeldDwV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9Vc2Vycy9rYWlpbS9Eb3dubG9hZHMvdGltZXVzYWdlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+45 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABaelt0q91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9Vc2Vycy9rYWlpbS9Eb3dubG9hZHMvdGltZXVzYWdlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+46 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABael8BSJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9Vc2Vycy9rYWlpbS9Eb3dubG9hZHMvdGltZXVzYWdlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
