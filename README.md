@@ -18,7 +18,7 @@ La partie k-mean étant déjà développé. Il fallait donc preparer les donnée
 
 Le jeu de données est fourni par Kaggle et est documenté ici:
 
-https://www.kaggle.com/bls/american-time-use-survey
+https://www.kaggle.com/bls/american-time-use-survey  
 http://alaska.epfl.ch/~dockermoocs/bigdata/timeusage.zip
 
 Notre objectif est d'identifier trois groupes d'activités:  
