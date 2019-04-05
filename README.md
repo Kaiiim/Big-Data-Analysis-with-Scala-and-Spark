@@ -23,9 +23,7 @@ http://alaska.epfl.ch/~dockermoocs/bigdata/timeusage.zip
 
 Notre objectif est d'identifier trois groupes d'activités:  
 
-besoins primaires (dormir et manger),  
-travail,  
-autre (loisir).  
+besoins primaires (dormir et manger),  travail,  autre (loisir).  
 Et ensuite, observez comment les gens répartissent leur temps entre ces trois types d’activités et si on peut voir des différences entre hommes et femmes, actifs et chômeurs, et jeunes (moins de 22 ans), actifs (entre 22 et 55 ans). vieux) et les aînés.  
 
 À la fin de la mission, nous pourrons répondre aux questions suivantes basées sur l'ensemble de données:  
